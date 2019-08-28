@@ -1,0 +1,910 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1560491682781,25127,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-5,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,25127
+1560491681864,26089,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-4,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,26089
+1560491683834,24102,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-6,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,24101
+1560491679103,28864,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-1,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,28864
+1560491686798,21169,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-9,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,21169
+1560491679766,28147,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-2,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,28147
+1560491687758,20215,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-10,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,20214
+1560491680748,27232,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-3,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,27231
+1560491685824,22151,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-8,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,22151
+1560491684811,23175,Navigate to Site,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host closed connection during handshake,Thread Group 1-7,text,false,,2639,0,10,10,https://www.1-day.co.nz/,0,0,23165
+1560491721656,7458,Navigate to Login,200,OK,Thread Group 1-4,text,true,,909996,10369,10,10,https://www.1-day.co.nz/orderlist.do,1121,0,967
+1560491721656,1197,Navigate to Login-0,200,OK,Thread Group 1-4,text,true,,43505,363,10,10,https://www.1-day.co.nz/orderlist.do,1121,0,967
+1560491724103,1138,Navigate to Login-1,200,OK,Thread Group 1-4,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1137,0,705
+1560491724103,1134,Navigate to Login-2,200,OK,Thread Group 1-4,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1134,0,689
+1560491724105,921,Navigate to Login-3,200,OK,Thread Group 1-4,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,920,0,683
+1560491724105,2698,Navigate to Login-4,200,OK,Thread Group 1-4,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,1728,0,1512
+1560491724106,1722,Navigate to Login-5,200,OK,Thread Group 1-4,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1722,0,1505
+1560491724077,2715,Navigate to Login-6,200,OK,Thread Group 1-4,text,true,,194886,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1754,0,1545
+1560491725066,1321,Navigate to Login-7,200,OK,Thread Group 1-4,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,1265,0,986
+1560491725840,898,Navigate to Login-8,200,OK,Thread Group 1-4,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,896,0,549
+1560491726403,557,Navigate to Login-9,200,OK,Thread Group 1-4,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,556,0,470
+1560491726742,742,Navigate to Login-10,200,OK,Thread Group 1-4,text,true,,51210,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,612,0,553
+1560491726795,634,Navigate to Login-11,200,OK,Thread Group 1-4,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,633,0,549
+1560491727222,312,Navigate to Login-12,200,OK,Thread Group 1-4,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,312,0,247
+1560491727522,441,Navigate to Login-13,200,OK,Thread Group 1-4,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,441,0,252
+1560491727554,52,Navigate to Login-14,200,OK,Thread Group 1-4,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,52,0,0
+1560491727922,387,Navigate to Login-15,200,OK,Thread Group 1-4,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,384,0,322
+1560491727789,165,Navigate to Login-16,200,OK,Thread Group 1-4,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,165,0,0
+1560491727965,132,Navigate to Login-17,200,OK,Thread Group 1-4,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,127,0,0
+1560491728151,214,Navigate to Login-18,200,OK,Thread Group 1-4,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,214,0,119
+1560491728206,666,Navigate to Login-19,200,OK,Thread Group 1-4,text,true,,269459,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,226,0,102
+1560491728505,608,Navigate to Login-20,200,OK,Thread Group 1-4,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,607,0,565
+1560491728673,440,Navigate to Login-21,200,OK,Thread Group 1-4,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,439,0,399
+1560491721689,7376,Navigate to Login,200,OK,Thread Group 1-7,text,true,,909985,10369,10,10,https://www.1-day.co.nz/orderlist.do,1043,0,929
+1560491721689,1195,Navigate to Login-0,200,OK,Thread Group 1-7,text,true,,43505,363,10,10,https://www.1-day.co.nz/orderlist.do,1043,0,929
+1560491724111,1543,Navigate to Login-1,200,OK,Thread Group 1-7,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1543,0,1356
+1560491724110,1571,Navigate to Login-2,200,OK,Thread Group 1-7,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1571,0,1283
+1560491724111,1723,Navigate to Login-3,200,OK,Thread Group 1-7,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1723,0,1501
+1560491724111,2039,Navigate to Login-4,200,OK,Thread Group 1-7,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,1704,0,1466
+1560491724115,753,Navigate to Login-5,200,OK,Thread Group 1-7,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,753,0,676
+1560491724073,2368,Navigate to Login-6,200,OK,Thread Group 1-7,text,true,,194878,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1836,0,1546
+1560491724917,869,Navigate to Login-7,200,OK,Thread Group 1-7,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,833,0,628
+1560491725816,954,Navigate to Login-8,200,OK,Thread Group 1-7,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,952,0,551
+1560491725846,889,Navigate to Login-9,200,OK,Thread Group 1-7,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,888,0,542
+1560491726735,552,Navigate to Login-10,200,OK,Thread Group 1-7,text,true,,51210,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,469,0,403
+1560491726737,228,Navigate to Login-11,200,OK,Thread Group 1-7,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,227,0,167
+1560491726775,133,Navigate to Login-12,200,OK,Thread Group 1-7,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,133,0,0
+1560491727000,56,Navigate to Login-13,200,OK,Thread Group 1-7,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,55,0,0
+1560491727053,192,Navigate to Login-14,200,OK,Thread Group 1-7,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,192,0,133
+1560491727247,254,Navigate to Login-15,200,OK,Thread Group 1-7,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,247,0,178
+1560491727265,218,Navigate to Login-16,200,OK,Thread Group 1-7,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,218,0,152
+1560491727308,195,Navigate to Login-17,200,OK,Thread Group 1-7,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,186,0,130
+1560491727617,693,Navigate to Login-18,200,OK,Thread Group 1-7,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,692,0,629
+1560491727617,976,Navigate to Login-19,200,OK,Thread Group 1-7,text,true,,269456,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,697,0,630
+1560491727786,573,Navigate to Login-20,200,OK,Thread Group 1-7,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,573,0,513
+1560491728502,562,Navigate to Login-21,200,OK,Thread Group 1-7,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,561,0,477
+1560491721636,7422,Navigate to Login,200,OK,Thread Group 1-5,text,true,,909998,10369,10,10,https://www.1-day.co.nz/orderlist.do,1072,0,902
+1560491721636,1267,Navigate to Login-0,200,OK,Thread Group 1-5,text,true,,43505,363,10,10,https://www.1-day.co.nz/orderlist.do,1072,0,902
+1560491724071,712,Navigate to Login-1,200,OK,Thread Group 1-5,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",711,0,512
+1560491724070,1539,Navigate to Login-2,200,OK,Thread Group 1-5,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1539,0,1026
+1560491724072,1723,Navigate to Login-3,200,OK,Thread Group 1-5,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1722,0,1494
+1560491724072,1351,Navigate to Login-4,200,OK,Thread Group 1-5,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,954,0,718
+1560491724088,1141,Navigate to Login-5,200,OK,Thread Group 1-5,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1141,0,761
+1560491724082,2306,Navigate to Login-6,200,OK,Thread Group 1-5,text,true,,194886,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1747,0,1507
+1560491725296,1068,Navigate to Login-7,200,OK,Thread Group 1-5,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,1036,0,769
+1560491725818,950,Navigate to Login-8,200,OK,Thread Group 1-5,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,948,0,560
+1560491726397,563,Navigate to Login-9,200,OK,Thread Group 1-5,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,561,0,488
+1560491726397,783,Navigate to Login-10,200,OK,Thread Group 1-5,text,true,,51213,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,673,0,633
+1560491726772,226,Navigate to Login-11,200,OK,Thread Group 1-5,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,226,0,154
+1560491727214,216,Navigate to Login-12,200,OK,Thread Group 1-5,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,216,0,129
+1560491727218,217,Navigate to Login-13,200,OK,Thread Group 1-5,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,217,0,129
+1560491727309,224,Navigate to Login-14,200,OK,Thread Group 1-5,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,224,0,146
+1560491727536,656,Navigate to Login-15,200,OK,Thread Group 1-5,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,652,0,233
+1560491727539,617,Navigate to Login-16,200,OK,Thread Group 1-5,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,616,0,227
+1560491727543,795,Navigate to Login-17,200,OK,Thread Group 1-5,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,792,0,702
+1560491728230,339,Navigate to Login-18,200,OK,Thread Group 1-5,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,339,0,128
+1560491728231,726,Navigate to Login-19,200,OK,Thread Group 1-5,text,true,,269458,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,410,0,133
+1560491728342,651,Navigate to Login-20,200,OK,Thread Group 1-5,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,650,0,597
+1560491728593,464,Navigate to Login-21,200,OK,Thread Group 1-5,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,462,0,400
+1560491721654,7225,Navigate to Login,200,OK,Thread Group 1-2,text,true,,910026,10369,10,10,https://www.1-day.co.nz/orderlist.do,1160,0,962
+1560491721654,1197,Navigate to Login-0,200,OK,Thread Group 1-2,text,true,,43505,363,10,10,https://www.1-day.co.nz/orderlist.do,1160,0,962
+1560491724108,1314,Navigate to Login-1,200,OK,Thread Group 1-2,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1298,0,858
+1560491724107,1947,Navigate to Login-2,200,OK,Thread Group 1-2,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1947,0,1504
+1560491724109,1583,Navigate to Login-3,200,OK,Thread Group 1-2,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1545,0,1406
+1560491724107,1721,Navigate to Login-4,200,OK,Thread Group 1-2,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,1513,0,1354
+1560491724075,1184,Navigate to Login-5,200,OK,Thread Group 1-2,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1184,0,798
+1560491724108,1568,Navigate to Login-6,200,OK,Thread Group 1-2,text,true,,194886,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,760,0,682
+1560491725299,760,Navigate to Login-7,200,OK,Thread Group 1-2,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,758,0,462
+1560491725687,693,Navigate to Login-8,200,OK,Thread Group 1-2,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,681,0,377
+1560491725718,1076,Navigate to Login-9,200,OK,Thread Group 1-2,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,1075,0,608
+1560491726099,999,Navigate to Login-10,200,OK,Thread Group 1-2,text,true,,51243,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,944,0,729
+1560491726401,568,Navigate to Login-11,200,OK,Thread Group 1-2,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,568,0,507
+1560491726840,226,Navigate to Login-12,200,OK,Thread Group 1-2,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,226,0,154
+1560491727236,245,Navigate to Login-13,200,OK,Thread Group 1-2,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,245,0,184
+1560491727271,211,Navigate to Login-14,200,OK,Thread Group 1-2,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,210,0,146
+1560491727282,249,Navigate to Login-15,200,OK,Thread Group 1-2,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,223,0,151
+1560491727611,543,Navigate to Login-16,200,OK,Thread Group 1-2,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,543,0,159
+1560491727614,701,Navigate to Login-17,200,OK,Thread Group 1-2,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,697,0,634
+1560491727614,350,Navigate to Login-18,200,OK,Thread Group 1-2,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,350,0,156
+1560491728176,669,Navigate to Login-19,200,OK,Thread Group 1-2,text,true,,269456,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,377,0,174
+1560491728228,612,Navigate to Login-20,200,OK,Thread Group 1-2,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,611,0,453
+1560491728342,536,Navigate to Login-21,200,OK,Thread Group 1-2,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,536,0,407
+1560491721683,6856,Navigate to Login,200,OK,Thread Group 1-8,text,true,,910010,10369,10,10,https://www.1-day.co.nz/orderlist.do,1119,0,933
+1560491721683,1179,Navigate to Login-0,200,OK,Thread Group 1-8,text,true,,43497,363,10,10,https://www.1-day.co.nz/orderlist.do,1119,0,933
+1560491724109,1944,Navigate to Login-1,200,OK,Thread Group 1-8,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1944,0,1503
+1560491724109,1131,Navigate to Login-2,200,OK,Thread Group 1-8,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1130,0,698
+1560491724110,1118,Navigate to Login-3,200,OK,Thread Group 1-8,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1112,0,737
+1560491724110,2269,Navigate to Login-4,200,OK,Thread Group 1-8,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,1175,0,811
+1560491724074,1254,Navigate to Login-5,200,OK,Thread Group 1-8,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1253,0,841
+1560491724110,1282,Navigate to Login-6,200,OK,Thread Group 1-8,text,true,,194878,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,818,0,681
+1560491725234,1070,Navigate to Login-7,200,OK,Thread Group 1-8,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,1029,0,423
+1560491725336,743,Navigate to Login-8,200,OK,Thread Group 1-8,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,740,0,453
+1560491725442,639,Navigate to Login-9,200,OK,Thread Group 1-8,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,638,0,352
+1560491726127,1051,Navigate to Login-10,200,OK,Thread Group 1-8,text,true,,51243,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,956,0,755
+1560491726122,788,Navigate to Login-11,200,OK,Thread Group 1-8,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,788,0,667
+1560491726305,490,Navigate to Login-12,200,OK,Thread Group 1-8,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,490,0,0
+1560491726837,76,Navigate to Login-13,200,OK,Thread Group 1-8,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,75,0,0
+1560491727110,237,Navigate to Login-14,200,OK,Thread Group 1-8,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,237,0,133
+1560491727116,245,Navigate to Login-15,200,OK,Thread Group 1-8,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,239,0,146
+1560491727310,285,Navigate to Login-16,200,OK,Thread Group 1-8,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,284,0,168
+1560491727486,448,Navigate to Login-17,200,OK,Thread Group 1-8,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,443,0,302
+1560491727553,374,Navigate to Login-18,200,OK,Thread Group 1-8,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,374,0,171
+1560491727925,401,Navigate to Login-19,200,OK,Thread Group 1-8,text,true,,269456,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,123,0,0
+1560491727939,599,Navigate to Login-20,200,OK,Thread Group 1-8,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,599,0,466
+1560491727956,405,Navigate to Login-21,200,OK,Thread Group 1-8,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,405,0,345
+1560491721665,7434,Navigate to Login,200,OK,Thread Group 1-10,text,true,,909967,10369,10,10,https://www.1-day.co.nz/orderlist.do,1104,0,962
+1560491721665,1160,Navigate to Login-0,200,OK,Thread Group 1-10,text,true,,43489,363,10,10,https://www.1-day.co.nz/orderlist.do,1104,0,962
+1560491724092,1536,Navigate to Login-1,200,OK,Thread Group 1-10,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1536,0,1199
+1560491724092,1146,Navigate to Login-2,200,OK,Thread Group 1-10,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1141,0,701
+1560491724093,729,Navigate to Login-3,200,OK,Thread Group 1-10,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,727,0,675
+1560491724094,1509,Navigate to Login-4,200,OK,Thread Group 1-10,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,778,0,697
+1560491724096,1736,Navigate to Login-5,200,OK,Thread Group 1-10,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1735,0,1512
+1560491724079,795,Navigate to Login-6,200,OK,Thread Group 1-10,text,true,,194878,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,693,0,590
+1560491724886,854,Navigate to Login-7,200,OK,Thread Group 1-10,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,850,0,651
+1560491724883,902,Navigate to Login-8,200,OK,Thread Group 1-10,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,876,0,664
+1560491725744,318,Navigate to Login-9,200,OK,Thread Group 1-10,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,318,0,0
+1560491725812,1145,Navigate to Login-10,200,OK,Thread Group 1-10,text,true,,51213,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,1089,0,1018
+1560491725844,892,Navigate to Login-11,200,OK,Thread Group 1-10,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,891,0,546
+1560491726099,814,Navigate to Login-12,200,OK,Thread Group 1-10,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,813,0,687
+1560491726738,219,Navigate to Login-13,200,OK,Thread Group 1-10,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,219,0,138
+1560491727160,267,Navigate to Login-14,200,OK,Thread Group 1-10,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,266,0,178
+1560491727168,254,Navigate to Login-15,200,OK,Thread Group 1-10,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,251,0,163
+1560491727172,281,Navigate to Login-16,200,OK,Thread Group 1-10,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,281,0,169
+1560491727517,751,Navigate to Login-17,200,OK,Thread Group 1-10,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,740,0,454
+1560491727518,664,Navigate to Login-18,200,OK,Thread Group 1-10,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,443,0,259
+1560491727521,1170,Navigate to Login-19,200,OK,Thread Group 1-10,text,true,,269451,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,879,0,748
+1560491728585,513,Navigate to Login-20,200,OK,Thread Group 1-10,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,512,0,471
+1560491728570,491,Navigate to Login-21,200,OK,Thread Group 1-10,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,491,0,429
+1560491721692,7375,Navigate to Login,200,OK,Thread Group 1-1,text,true,,910028,10369,10,10,https://www.1-day.co.nz/orderlist.do,1088,0,937
+1560491721692,1167,Navigate to Login-0,200,OK,Thread Group 1-1,text,true,,43497,363,10,10,https://www.1-day.co.nz/orderlist.do,1088,0,937
+1560491724089,1576,Navigate to Login-1,200,OK,Thread Group 1-1,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1576,0,1272
+1560491724088,1309,Navigate to Login-2,200,OK,Thread Group 1-1,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1309,0,778
+1560491724090,780,Navigate to Login-3,200,OK,Thread Group 1-1,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,779,0,697
+1560491724089,1502,Navigate to Login-4,200,OK,Thread Group 1-1,text,true,,240110,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,1191,0,674
+1560491724091,1173,Navigate to Login-5,200,OK,Thread Group 1-1,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1172,0,829
+1560491724081,2314,Navigate to Login-6,200,OK,Thread Group 1-1,text,true,,194886,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1785,0,1531
+1560491724921,871,Navigate to Login-7,200,OK,Thread Group 1-1,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,869,0,645
+1560491725309,766,Navigate to Login-8,200,OK,Thread Group 1-1,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,764,0,481
+1560491725817,961,Navigate to Login-9,200,OK,Thread Group 1-1,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,960,0,552
+1560491726119,1073,Navigate to Login-10,200,OK,Thread Group 1-1,text,true,,51251,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,974,0,768
+1560491726406,549,Navigate to Login-11,200,OK,Thread Group 1-1,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,549,0,473
+1560491726783,123,Navigate to Login-12,200,OK,Thread Group 1-1,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,122,0,0
+1560491726981,155,Navigate to Login-13,200,OK,Thread Group 1-1,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,155,0,99
+1560491726987,149,Navigate to Login-14,200,OK,Thread Group 1-1,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,149,0,100
+1560491727301,776,Navigate to Login-15,200,OK,Thread Group 1-1,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,765,0,0
+1560491727312,284,Navigate to Login-16,200,OK,Thread Group 1-1,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,284,0,222
+1560491727311,812,Navigate to Login-17,200,OK,Thread Group 1-1,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,798,0,0
+1560491727922,720,Navigate to Login-18,200,OK,Thread Group 1-1,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,719,0,481
+1560491728144,420,Navigate to Login-19,200,OK,Thread Group 1-1,text,true,,269458,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,172,0,108
+1560491728147,655,Navigate to Login-20,200,OK,Thread Group 1-1,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,655,0,493
+1560491728573,493,Navigate to Login-21,200,OK,Thread Group 1-1,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,492,0,405
+1560491721671,7444,Navigate to Login,200,OK,Thread Group 1-6,text,true,,909995,10465,10,10,https://www.1-day.co.nz/orderlist.do,1105,0,954
+1560491721671,1164,Navigate to Login-0,200,OK,Thread Group 1-6,text,true,,43503,363,10,10,https://www.1-day.co.nz/orderlist.do,1105,0,954
+1560491724106,1555,Navigate to Login-1,200,OK,Thread Group 1-6,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1554,0,1292
+1560491724106,1131,Navigate to Login-2,200,OK,Thread Group 1-6,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1131,0,687
+1560491724106,1644,Navigate to Login-3,200,OK,Thread Group 1-6,bin,true,,5216,515,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1636,0,1459
+1560491724107,1432,Navigate to Login-4,200,OK,Thread Group 1-6,text,true,,240117,533,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,718,0,662
+1560491724106,1041,Navigate to Login-5,200,OK,Thread Group 1-6,bin,true,,4783,484,10,10,https://www.1-day.co.nz/images/favicon.ico,1032,0,719
+1560491724077,1440,Navigate to Login-6,200,OK,Thread Group 1-6,text,true,,194878,535,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1091,0,763
+1560491725176,896,Navigate to Login-7,200,OK,Thread Group 1-6,text,true,,20322,524,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,894,0,620
+1560491725521,583,Navigate to Login-8,200,OK,Thread Group 1-6,text,true,,20253,517,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,580,0,287
+1560491725754,1039,Navigate to Login-9,200,OK,Thread Group 1-6,text,true,,5036,522,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,1038,0,574
+1560491726113,844,Navigate to Login-10,200,OK,Thread Group 1-6,text,true,,51213,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,779,0,716
+1560491726125,785,Navigate to Login-11,200,OK,Thread Group 1-6,bin,true,,2002,507,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,784,0,662
+1560491726808,260,Navigate to Login-12,200,OK,Thread Group 1-6,bin,true,,1632,509,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,259,0,189
+1560491727061,233,Navigate to Login-13,200,OK,Thread Group 1-6,bin,true,,2013,509,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,233,0,146
+1560491727108,241,Navigate to Login-14,200,OK,Thread Group 1-6,bin,true,,1643,509,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,240,0,134
+1560491727275,217,Navigate to Login-15,200,OK,Thread Group 1-6,bin,true,,13154,509,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,214,0,160
+1560491727306,68,Navigate to Login-16,200,OK,Thread Group 1-6,bin,true,,1465,497,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,67,0,0
+1560491727401,78,Navigate to Login-17,200,OK,Thread Group 1-6,text,true,,20684,497,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,73,0,0
+1560491727514,636,Navigate to Login-18,200,OK,Thread Group 1-6,bin,true,,1815,496,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,635,0,259
+1560491727558,617,Navigate to Login-19,200,OK,Thread Group 1-6,text,true,,269458,538,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,224,0,157
+1560491727560,1282,Navigate to Login-20,200,OK,Thread Group 1-6,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,1282,0,1119
+1560491728670,444,Navigate to Login-21,200,OK,Thread Group 1-6,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,443,0,410
+1560491721678,7124,Navigate to Login,200,OK,Thread Group 1-3,text,true,,910035,10369,10,10,https://www.1-day.co.nz/orderlist.do,1135,0,950
+1560491721678,1184,Navigate to Login-0,200,OK,Thread Group 1-3,text,true,,43512,363,10,10,https://www.1-day.co.nz/orderlist.do,1135,0,950
+1560491724034,1625,Navigate to Login-1,200,OK,Thread Group 1-3,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1624,0,1373
+1560491724082,1966,Navigate to Login-2,200,OK,Thread Group 1-3,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1966,0,1483
+1560491724083,1177,Navigate to Login-3,200,OK,Thread Group 1-3,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1176,0,794
+1560491724082,1445,Navigate to Login-4,200,OK,Thread Group 1-3,text,true,,240117,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,1073,0,759
+1560491724081,735,Navigate to Login-5,200,OK,Thread Group 1-3,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,734,0,679
+1560491724081,1489,Navigate to Login-6,200,OK,Thread Group 1-3,text,true,,194886,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1206,0,683
+1560491725211,836,Navigate to Login-7,200,OK,Thread Group 1-3,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,827,0,503
+1560491725303,758,Navigate to Login-8,200,OK,Thread Group 1-3,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,752,0,438
+1560491725580,760,Navigate to Login-9,200,OK,Thread Group 1-3,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,759,0,472
+1560491726096,1108,Navigate to Login-10,200,OK,Thread Group 1-3,text,true,,51243,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,1026,0,810
+1560491726095,736,Navigate to Login-11,200,OK,Thread Group 1-3,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,736,0,657
+1560491726348,403,Navigate to Login-12,200,OK,Thread Group 1-3,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,403,0,0
+1560491726761,119,Navigate to Login-13,200,OK,Thread Group 1-3,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,119,0,0
+1560491726851,213,Navigate to Login-14,200,OK,Thread Group 1-3,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,212,0,143
+1560491726979,174,Navigate to Login-15,200,OK,Thread Group 1-3,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,171,0,111
+1560491727265,80,Navigate to Login-16,200,OK,Thread Group 1-3,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,80,0,0
+1560491727267,335,Navigate to Login-17,200,OK,Thread Group 1-3,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,329,0,264
+1560491727270,210,Navigate to Login-18,200,OK,Thread Group 1-3,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,210,0,146
+1560491727403,825,Navigate to Login-19,200,OK,Thread Group 1-3,text,true,,269451,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,531,0,370
+1560491727609,752,Navigate to Login-20,200,OK,Thread Group 1-3,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,752,0,687
+1560491727970,831,Navigate to Login-21,200,OK,Thread Group 1-3,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,830,0,662
+1560491721700,7369,Navigate to Login,200,OK,Thread Group 1-9,text,true,,910031,10369,10,10,https://www.1-day.co.nz/orderlist.do,1033,0,921
+1560491721700,1175,Navigate to Login-0,200,OK,Thread Group 1-9,text,true,,43505,363,10,10,https://www.1-day.co.nz/orderlist.do,1033,0,921
+1560491724097,1564,Navigate to Login-1,200,OK,Thread Group 1-9,text,true,,3662,389,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1563,0,1291
+1560491724098,1054,Navigate to Login-2,200,OK,Thread Group 1-9,text,true,,1182,382,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1053,0,663
+1560491724100,1561,Navigate to Login-3,200,OK,Thread Group 1-9,bin,true,,5216,509,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,1560,0,1360
+1560491724079,1275,Navigate to Login-4,200,OK,Thread Group 1-9,text,true,,240117,527,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,861,0,503
+1560491724102,1186,Navigate to Login-5,200,OK,Thread Group 1-9,bin,true,,4783,478,10,10,https://www.1-day.co.nz/images/favicon.ico,1186,0,805
+1560491724102,1514,Navigate to Login-6,200,OK,Thread Group 1-9,text,true,,194878,529,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,1209,0,821
+1560491725306,771,Navigate to Login-7,200,OK,Thread Group 1-9,text,true,,20322,518,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,770,0,482
+1560491725666,688,Navigate to Login-8,200,OK,Thread Group 1-9,text,true,,20253,511,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,672,0,400
+1560491725684,680,Navigate to Login-9,200,OK,Thread Group 1-9,text,true,,5036,516,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,669,0,384
+1560491726118,1078,Navigate to Login-10,200,OK,Thread Group 1-9,text,true,,51243,374,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,981,0,763
+1560491726395,572,Navigate to Login-11,200,OK,Thread Group 1-9,bin,true,,2002,501,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,571,0,495
+1560491726395,567,Navigate to Login-12,200,OK,Thread Group 1-9,bin,true,,1632,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,567,0,503
+1560491727227,257,Navigate to Login-13,200,OK,Thread Group 1-9,bin,true,,2013,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,256,0,192
+1560491727228,252,Navigate to Login-14,200,OK,Thread Group 1-9,bin,true,,1643,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,251,0,181
+1560491727306,200,Navigate to Login-15,200,OK,Thread Group 1-9,bin,true,,13154,503,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,197,0,132
+1560491727563,660,Navigate to Login-16,200,OK,Thread Group 1-9,bin,true,,1465,491,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,660,0,403
+1560491727563,743,Navigate to Login-17,200,OK,Thread Group 1-9,text,true,,20684,491,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,739,0,677
+1560491727569,765,Navigate to Login-18,200,OK,Thread Group 1-9,bin,true,,1815,490,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,765,0,689
+1560491728235,766,Navigate to Login-19,200,OK,Thread Group 1-9,text,true,,269462,532,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,388,0,129
+1560491728486,582,Navigate to Login-20,200,OK,Thread Group 1-9,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,582,0,489
+1560491728347,630,Navigate to Login-21,200,OK,Thread Group 1-9,text,true,,3977,368,10,10,https://connect.facebook.net/en_US/all.js,630,0,532
+1560491746076,1919,Login,200,OK,Thread Group 1-10,text,true,,60149,14034,10,10,https://www.1-day.co.nz/oneday/login.do,372,0,229
+1560491746076,385,Login-0,200,OK,Thread Group 1-10,text,true,,43533,695,10,10,https://www.1-day.co.nz/oneday/login.do,372,0,229
+1560491746533,585,Login-1,200,OK,Thread Group 1-10,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",584,0,416
+1560491746531,586,Login-2,200,OK,Thread Group 1-10,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,585,0,417
+1560491746531,182,Login-3,304,Not Modified,Thread Group 1-10,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,104
+1560491746528,184,Login-4,304,Not Modified,Thread Group 1-10,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,107
+1560491746528,186,Login-5,304,Not Modified,Thread Group 1-10,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,105
+1560491746525,1456,Login-6,304,Not Modified,Thread Group 1-10,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491746965,451,Login-7,304,Not Modified,Thread Group 1-10,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,394
+1560491746970,225,Login-8,304,Not Modified,Thread Group 1-10,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,168
+1560491746974,693,Login-9,304,Not Modified,Thread Group 1-10,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,605
+1560491747200,189,Login-10,304,Not Modified,Thread Group 1-10,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,142
+1560491747258,152,Login-11,304,Not Modified,Thread Group 1-10,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,109
+1560491747260,187,Login-12,304,Not Modified,Thread Group 1-10,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,111
+1560491747395,191,Login-13,304,Not Modified,Thread Group 1-10,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,151
+1560491747429,59,Login-14,304,Not Modified,Thread Group 1-10,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491747456,150,Login-15,304,Not Modified,Thread Group 1-10,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,93
+1560491747460,216,Login-16,304,Not Modified,Thread Group 1-10,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,151
+1560491747527,251,Login-17,304,Not Modified,Thread Group 1-10,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,208
+1560491747621,172,Login-18,304,Not Modified,Thread Group 1-10,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,124
+1560491747630,191,Login-19,304,Not Modified,Thread Group 1-10,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,138
+1560491747691,304,Login-20,200,OK,Thread Group 1-10,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,304,0,269
+1560491747699,152,Login-21,304,Not Modified,Thread Group 1-10,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,108
+1560491746047,5012,Login,200,OK,Thread Group 1-2,text,true,,60159,14034,10,10,https://www.1-day.co.nz/oneday/login.do,294,0,160
+1560491746047,361,Login-0,200,OK,Thread Group 1-2,text,true,,43543,695,10,10,https://www.1-day.co.nz/oneday/login.do,294,0,160
+1560491746549,570,Login-1,200,OK,Thread Group 1-2,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",570,0,399
+1560491746549,843,Login-2,200,OK,Thread Group 1-2,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,843,0,395
+1560491746548,167,Login-3,304,Not Modified,Thread Group 1-2,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,99
+1560491746547,195,Login-4,304,Not Modified,Thread Group 1-2,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,106
+1560491746546,295,Login-5,304,Not Modified,Thread Group 1-2,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,247
+1560491746545,1420,Login-6,304,Not Modified,Thread Group 1-2,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491747030,236,Login-7,304,Not Modified,Thread Group 1-2,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,196
+1560491747031,238,Login-8,304,Not Modified,Thread Group 1-2,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,196
+1560491747032,294,Login-9,304,Not Modified,Thread Group 1-2,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,247
+1560491747257,228,Login-10,304,Not Modified,Thread Group 1-2,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,177
+1560491747329,136,Login-11,304,Not Modified,Thread Group 1-2,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,89
+1560491747332,243,Login-12,304,Not Modified,Thread Group 1-2,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,180
+1560491747334,155,Login-13,304,Not Modified,Thread Group 1-2,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,104
+1560491747515,162,Login-14,304,Not Modified,Thread Group 1-2,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,98
+1560491747531,201,Login-15,304,Not Modified,Thread Group 1-2,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,130
+1560491747527,169,Login-16,304,Not Modified,Thread Group 1-2,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,88
+1560491747617,188,Login-17,304,Not Modified,Thread Group 1-2,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,131
+1560491747654,228,Login-18,304,Not Modified,Thread Group 1-2,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,181
+1560491747701,160,Login-19,304,Not Modified,Thread Group 1-2,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,111
+1560491747836,257,Login-20,200,OK,Thread Group 1-2,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,257,0,223
+1560491747869,3190,Login-21,304,Not Modified,Thread Group 1-2,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,3148
+1560491746049,5010,Login,200,OK,Thread Group 1-8,text,true,,60151,14033,10,10,https://www.1-day.co.nz/oneday/login.do,296,0,193
+1560491746049,388,Login-0,200,OK,Thread Group 1-8,text,true,,43535,694,10,10,https://www.1-day.co.nz/oneday/login.do,296,0,193
+1560491746544,276,Login-1,200,OK,Thread Group 1-8,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",276,0,96
+1560491746542,280,Login-2,200,OK,Thread Group 1-8,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,280,0,103
+1560491746541,303,Login-3,304,Not Modified,Thread Group 1-8,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,251
+1560491746539,280,Login-4,304,Not Modified,Thread Group 1-8,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,177
+1560491746538,173,Login-5,304,Not Modified,Thread Group 1-8,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,100
+1560491746535,1440,Login-6,304,Not Modified,Thread Group 1-8,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491746957,433,Login-7,304,Not Modified,Thread Group 1-8,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,383
+1560491746959,364,Login-8,304,Not Modified,Thread Group 1-8,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,312
+1560491746961,447,Login-9,304,Not Modified,Thread Group 1-8,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,386
+1560491747220,213,Login-10,304,Not Modified,Thread Group 1-8,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,169
+1560491747253,213,Login-11,304,Not Modified,Thread Group 1-8,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,116
+1560491747354,142,Login-12,304,Not Modified,Thread Group 1-8,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,97
+1560491747399,146,Login-13,304,Not Modified,Thread Group 1-8,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,88
+1560491747414,146,Login-14,304,Not Modified,Thread Group 1-8,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,97
+1560491747476,275,Login-15,304,Not Modified,Thread Group 1-8,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,195
+1560491747491,172,Login-16,304,Not Modified,Thread Group 1-8,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,94
+1560491747543,212,Login-17,304,Not Modified,Thread Group 1-8,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,136
+1560491747598,216,Login-18,304,Not Modified,Thread Group 1-8,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,143
+1560491747601,185,Login-19,304,Not Modified,Thread Group 1-8,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,135
+1560491747858,574,Login-20,200,OK,Thread Group 1-8,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,573,0,535
+1560491747856,3203,Login-21,304,Not Modified,Thread Group 1-8,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,3165
+1560491746031,5390,Login,200,OK,Thread Group 1-7,text,true,,60160,14033,10,10,https://www.1-day.co.nz/oneday/login.do,288,0,191
+1560491746031,357,Login-0,200,OK,Thread Group 1-7,text,true,,43542,694,10,10,https://www.1-day.co.nz/oneday/login.do,288,0,191
+1560491746588,777,Login-1,200,OK,Thread Group 1-7,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",757,0,623
+1560491746587,877,Login-2,200,OK,Thread Group 1-7,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,865,0,721
+1560491746586,436,Login-3,304,Not Modified,Thread Group 1-7,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,367
+1560491746583,1172,Login-4,304,Not Modified,Thread Group 1-7,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,1110
+1560491746584,1238,Login-5,304,Not Modified,Thread Group 1-7,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,1189
+1560491746583,1360,Login-6,304,Not Modified,Thread Group 1-7,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491747637,186,Login-7,304,Not Modified,Thread Group 1-7,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,119
+1560491747635,184,Login-8,304,Not Modified,Thread Group 1-7,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,120
+1560491747682,179,Login-9,304,Not Modified,Thread Group 1-7,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,132
+1560491747873,2495,Login-10,304,Not Modified,Thread Group 1-7,,true,,177,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,2461
+1560491747875,157,Login-11,304,Not Modified,Thread Group 1-7,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,88
+1560491747875,3340,Login-12,304,Not Modified,Thread Group 1-7,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,3285
+1560491747876,3338,Login-13,304,Not Modified,Thread Group 1-7,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,3257
+1560491747862,1163,Login-14,304,Not Modified,Thread Group 1-7,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,1100
+1560491747960,3461,Login-15,304,Not Modified,Thread Group 1-7,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,3402
+1560491748033,3352,Login-16,304,Not Modified,Thread Group 1-7,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,3271
+1560491749025,41,Login-17,304,Not Modified,Thread Group 1-7,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491749066,44,Login-18,304,Not Modified,Thread Group 1-7,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491749111,43,Login-19,304,Not Modified,Thread Group 1-7,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491749154,117,Login-20,200,OK,Thread Group 1-7,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,116,0,84
+1560491749275,193,Login-21,304,Not Modified,Thread Group 1-7,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,162
+1560491746134,5373,Login,200,OK,Thread Group 1-4,text,true,,60327,14039,10,10,https://www.1-day.co.nz/oneday/login.do,191,0,91
+1560491746134,220,Login-0,200,OK,Thread Group 1-4,text,true,,43711,700,10,10,https://www.1-day.co.nz/oneday/login.do,191,0,91
+1560491746522,869,Login-1,200,OK,Thread Group 1-4,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",859,0,418
+1560491746520,900,Login-2,200,OK,Thread Group 1-4,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,900,0,422
+1560491746519,199,Login-3,304,Not Modified,Thread Group 1-4,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,112
+1560491746517,300,Login-4,304,Not Modified,Thread Group 1-4,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,176
+1560491746516,173,Login-5,304,Not Modified,Thread Group 1-4,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,91
+1560491746516,1468,Login-6,304,Not Modified,Thread Group 1-4,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491746870,312,Login-7,304,Not Modified,Thread Group 1-4,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,254
+1560491746912,409,Login-8,304,Not Modified,Thread Group 1-4,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,355
+1560491746956,456,Login-9,304,Not Modified,Thread Group 1-4,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,407
+1560491747207,182,Login-10,304,Not Modified,Thread Group 1-4,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,136
+1560491747348,165,Login-11,304,Not Modified,Thread Group 1-4,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,101
+1560491747396,142,Login-12,304,Not Modified,Thread Group 1-4,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,91
+1560491747460,147,Login-13,304,Not Modified,Thread Group 1-4,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,88
+1560491747589,186,Login-14,304,Not Modified,Thread Group 1-4,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,140
+1560491747596,204,Login-15,304,Not Modified,Thread Group 1-4,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,147
+1560491747636,334,Login-16,304,Not Modified,Thread Group 1-4,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491747647,167,Login-17,304,Not Modified,Thread Group 1-4,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,112
+1560491747659,159,Login-18,304,Not Modified,Thread Group 1-4,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,104
+1560491747862,3352,Login-19,304,Not Modified,Thread Group 1-4,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,3280
+1560491747865,2435,Login-20,200,OK,Thread Group 1-4,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,2434,0,2397
+1560491747865,3642,Login-21,304,Not Modified,Thread Group 1-4,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,3613
+1560491746081,5426,Login,200,OK,Thread Group 1-3,text,true,,60316,14033,10,10,https://www.1-day.co.nz/oneday/login.do,252,0,126
+1560491746081,312,Login-0,200,OK,Thread Group 1-3,text,true,,43700,694,10,10,https://www.1-day.co.nz/oneday/login.do,252,0,126
+1560491746582,1250,Login-1,200,OK,Thread Group 1-3,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1250,0,1113
+1560491746582,1262,Login-2,200,OK,Thread Group 1-3,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,1252,0,1115
+1560491746581,791,Login-3,304,Not Modified,Thread Group 1-3,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,730
+1560491746572,466,Login-4,304,Not Modified,Thread Group 1-3,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,414
+1560491746571,1217,Login-5,304,Not Modified,Thread Group 1-3,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,1171
+1560491746571,1370,Login-6,304,Not Modified,Thread Group 1-3,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491747427,152,Login-7,304,Not Modified,Thread Group 1-3,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,88
+1560491747620,204,Login-8,304,Not Modified,Thread Group 1-3,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,132
+1560491747640,182,Login-9,304,Not Modified,Thread Group 1-3,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,118
+1560491747884,2518,Login-10,304,Not Modified,Thread Group 1-3,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,2485
+1560491747885,3215,Login-11,304,Not Modified,Thread Group 1-3,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,3173
+1560491747887,3209,Login-12,304,Not Modified,Thread Group 1-3,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,3171
+1560491747952,3479,Login-13,304,Not Modified,Thread Group 1-3,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,3431
+1560491747974,3332,Login-14,304,Not Modified,Thread Group 1-3,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,3234
+1560491747981,3231,Login-15,304,Not Modified,Thread Group 1-3,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,3157
+1560491750404,229,Login-16,304,Not Modified,Thread Group 1-3,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,163
+1560491750634,45,Login-17,304,Not Modified,Thread Group 1-3,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491750681,46,Login-18,304,Not Modified,Thread Group 1-3,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491750728,67,Login-19,304,Not Modified,Thread Group 1-3,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491750799,340,Login-20,200,OK,Thread Group 1-3,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,340,0,292
+1560491751166,340,Login-21,304,Not Modified,Thread Group 1-3,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,308
+1560491746079,5439,Login,200,OK,Thread Group 1-9,text,true,,60151,14041,10,10,https://www.1-day.co.nz/oneday/login.do,227,0,137
+1560491746079,265,Login-0,200,OK,Thread Group 1-9,text,true,,43535,702,10,10,https://www.1-day.co.nz/oneday/login.do,227,0,137
+1560491746498,1018,Login-1,200,OK,Thread Group 1-9,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1018,0,445
+1560491746503,838,Login-2,200,OK,Thread Group 1-9,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,825,0,691
+1560491746503,1122,Login-3,304,Not Modified,Thread Group 1-9,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491746589,1165,Login-4,304,Not Modified,Thread Group 1-9,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,1080
+1560491746847,419,Login-5,304,Not Modified,Thread Group 1-9,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,374
+1560491746588,831,Login-6,304,Not Modified,Thread Group 1-9,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,773
+1560491747271,175,Login-7,304,Not Modified,Thread Group 1-9,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,102
+1560491747469,143,Login-8,304,Not Modified,Thread Group 1-9,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,80
+1560491747472,193,Login-9,304,Not Modified,Thread Group 1-9,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,102
+1560491747522,231,Login-10,304,Not Modified,Thread Group 1-9,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,173
+1560491747633,227,Login-11,304,Not Modified,Thread Group 1-9,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,176
+1560491747627,70,Login-12,304,Not Modified,Thread Group 1-9,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491747722,211,Login-13,304,Not Modified,Thread Group 1-9,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,145
+1560491747787,159,Login-14,304,Not Modified,Thread Group 1-9,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,113
+1560491747798,149,Login-15,304,Not Modified,Thread Group 1-9,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,103
+1560491747795,174,Login-16,304,Not Modified,Thread Group 1-9,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,73
+1560491747802,146,Login-17,304,Not Modified,Thread Group 1-9,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,101
+1560491747883,3627,Login-18,304,Not Modified,Thread Group 1-9,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,3589
+1560491747948,3376,Login-19,304,Not Modified,Thread Group 1-9,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,3263
+1560491747955,551,Login-20,200,OK,Thread Group 1-9,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,551,0,520
+1560491747956,3562,Login-21,304,Not Modified,Thread Group 1-9,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,3533
+1560491746073,5465,Login,200,OK,Thread Group 1-1,text,true,,60320,14036,10,10,https://www.1-day.co.nz/oneday/login.do,257,0,158
+1560491746073,327,Login-0,200,OK,Thread Group 1-1,text,true,,43701,697,10,10,https://www.1-day.co.nz/oneday/login.do,257,0,158
+1560491746560,1283,Login-1,200,OK,Thread Group 1-1,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",1274,0,1134
+1560491746559,296,Login-2,200,OK,Thread Group 1-1,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,287,0,150
+1560491746557,302,Login-3,304,Not Modified,Thread Group 1-1,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,261
+1560491746556,300,Login-4,304,Not Modified,Thread Group 1-1,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,237
+1560491746551,1399,Login-5,304,Not Modified,Thread Group 1-1,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,0
+1560491746551,312,Login-6,304,Not Modified,Thread Group 1-1,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,264
+1560491747656,159,Login-7,304,Not Modified,Thread Group 1-1,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,108
+1560491747654,167,Login-8,304,Not Modified,Thread Group 1-1,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,108
+1560491747651,173,Login-9,304,Not Modified,Thread Group 1-1,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,115
+1560491747248,199,Login-10,304,Not Modified,Thread Group 1-1,,true,,177,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,159
+1560491747498,170,Login-11,304,Not Modified,Thread Group 1-1,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,85
+1560491747700,161,Login-12,304,Not Modified,Thread Group 1-1,,true,,551,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,110
+1560491747904,3171,Login-13,304,Not Modified,Thread Group 1-1,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,3124
+1560491747906,3308,Login-14,304,Not Modified,Thread Group 1-1,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,3231
+1560491747908,3307,Login-15,304,Not Modified,Thread Group 1-1,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,3233
+1560491747910,3164,Login-16,304,Not Modified,Thread Group 1-1,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,3112
+1560491747965,3248,Login-17,304,Not Modified,Thread Group 1-1,,true,,528,667,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,3172
+1560491747978,3444,Login-18,304,Not Modified,Thread Group 1-1,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,3386
+1560491751170,222,Login-19,304,Not Modified,Thread Group 1-1,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,148
+1560491751184,202,Login-20,200,OK,Thread Group 1-1,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,202,0,137
+1560491751219,318,Login-21,304,Not Modified,Thread Group 1-1,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,282
+1560491746034,5490,Login,200,OK,Thread Group 1-5,text,true,,70401,14975,10,10,https://www.1-day.co.nz/orderlist.do,416,0,256
+1560491746034,416,Login-0,302,Found,Thread Group 1-5,text,true,,939,700,10,10,https://www.1-day.co.nz/oneday/login.do,416,0,256
+1560491746451,74,Login-1,301,Moved Permanently,Thread Group 1-5,,true,,295,445,10,10,http://www.1-day.co.nz/orderlist.do,74,0,36
+1560491746526,119,Login-2,200,OK,Thread Group 1-5,text,true,,51290,554,10,10,https://www.1-day.co.nz/orderlist.do,110,0,0
+1560491746766,624,Login-3,200,OK,Thread Group 1-5,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",624,0,488
+1560491746779,486,Login-4,200,OK,Thread Group 1-5,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,473,0,344
+1560491746874,1083,Login-5,304,Not Modified,Thread Group 1-5,,true,,505,641,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491746874,372,Login-6,304,Not Modified,Thread Group 1-5,,true,,580,704,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,131
+1560491746875,382,Login-7,304,Not Modified,Thread Group 1-5,,true,,552,647,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,117
+1560491746877,487,Login-8,304,Not Modified,Thread Group 1-5,,true,,580,706,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,138
+1560491747255,156,Login-9,304,Not Modified,Thread Group 1-5,,true,,637,650,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,112
+1560491747267,142,Login-10,304,Not Modified,Thread Group 1-5,,true,,527,687,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,101
+1560491747391,156,Login-11,304,Not Modified,Thread Group 1-5,,true,,579,692,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,97
+1560491747423,255,Login-12,304,Not Modified,Thread Group 1-5,,true,,177,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,188
+1560491747421,160,Login-13,304,Not Modified,Thread Group 1-5,,true,,550,669,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,114
+1560491747425,182,Login-14,304,Not Modified,Thread Group 1-5,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,112
+1560491747604,190,Login-15,304,Not Modified,Thread Group 1-5,,true,,498,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,135
+1560491747605,184,Login-16,304,Not Modified,Thread Group 1-5,,true,,550,671,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,133
+1560491747630,68,Login-17,304,Not Modified,Thread Group 1-5,,true,,551,672,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491747642,175,Login-18,304,Not Modified,Thread Group 1-5,,true,,551,659,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,118
+1560491747840,130,Login-19,200,OK,Thread Group 1-5,text,true,,1787,604,10,10,https://www.1-day.co.nz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,130,0,92
+1560491747852,134,Login-20,304,Not Modified,Thread Group 1-5,,true,,551,658,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,90
+1560491747887,3326,Login-21,304,Not Modified,Thread Group 1-5,,true,,580,709,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,3253
+1560491747892,2611,Login-22,200,OK,Thread Group 1-5,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,2611,0,2575
+1560491747894,3630,Login-23,304,Not Modified,Thread Group 1-5,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,3601
+1560491746073,5456,Login,200,OK,Thread Group 1-6,text,true,,60271,14135,10,10,https://www.1-day.co.nz/oneday/login.do,243,0,149
+1560491746073,280,Login-0,200,OK,Thread Group 1-6,text,true,,43655,700,10,10,https://www.1-day.co.nz/oneday/login.do,243,0,149
+1560491746514,954,Login-1,200,OK,Thread Group 1-6,text,true,,3662,521,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",953,0,429
+1560491746511,965,Login-2,200,OK,Thread Group 1-6,text,true,,1182,514,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,964,0,433
+1560491746510,207,Login-3,304,Not Modified,Thread Group 1-6,,true,,505,647,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,122
+1560491746508,293,Login-4,304,Not Modified,Thread Group 1-6,,true,,580,710,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,182
+1560491746507,1516,Login-5,304,Not Modified,Thread Group 1-6,,true,,552,653,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,0
+1560491746507,180,Login-6,304,Not Modified,Thread Group 1-6,,true,,580,712,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,94
+1560491746854,161,Login-7,304,Not Modified,Thread Group 1-6,,true,,637,656,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,102
+1560491746860,401,Login-8,304,Not Modified,Thread Group 1-6,,true,,527,693,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,134
+1560491746864,175,Login-9,304,Not Modified,Thread Group 1-6,,true,,579,698,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,125
+1560491747645,207,Login-10,304,Not Modified,Thread Group 1-6,,true,,175,559,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,167
+1560491747271,206,Login-11,304,Not Modified,Thread Group 1-6,,true,,550,675,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,147
+1560491747519,159,Login-12,304,Not Modified,Thread Group 1-6,,true,,550,677,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,93
+1560491747638,179,Login-13,304,Not Modified,Thread Group 1-6,,true,,498,677,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,120
+1560491747662,165,Login-14,304,Not Modified,Thread Group 1-6,,true,,550,677,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,117
+1560491747837,132,Login-15,304,Not Modified,Thread Group 1-6,,true,,551,678,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,90
+1560491747838,148,Login-16,304,Not Modified,Thread Group 1-6,,true,,551,665,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,93
+1560491747912,3247,Login-17,304,Not Modified,Thread Group 1-6,,true,,528,673,10,10,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,3191
+1560491747915,3243,Login-18,304,Not Modified,Thread Group 1-6,,true,,551,664,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,3179
+1560491747916,3595,Login-19,304,Not Modified,Thread Group 1-6,,true,,580,715,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,3556
+1560491747973,559,Login-20,200,OK,Thread Group 1-6,text,true,,1987,470,10,10,https://partner.googleadservices.com/gampad/google_service.js,558,0,523
+1560491747990,3539,Login-21,304,Not Modified,Thread Group 1-6,text,true,,741,501,10,10,https://connect.facebook.net/en_US/all.js,0,0,3508
+1560491760139,1363,Search,200,OK,Thread Group 1-10,text,true,,72374,12013,10,10,https://www.1-day.co.nz/s/kzsyrhwaxvcrnpd,235,0,111
+1560491760139,263,Search-0,200,OK,Thread Group 1-10,text,true,,51359,477,10,10,https://www.1-day.co.nz/s/kzsyrhwaxvcrnpd,235,0,111
+1560491760427,424,Search-1,200,OK,Thread Group 1-10,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",418,0,290
+1560491760434,455,Search-2,200,OK,Thread Group 1-10,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,448,0,307
+1560491760438,171,Search-3,304,Not Modified,Thread Group 1-10,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,124
+1560491760436,164,Search-4,304,Not Modified,Thread Group 1-10,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,124
+1560491760435,188,Search-5,304,Not Modified,Thread Group 1-10,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,128
+1560491760434,71,Search-6,304,Not Modified,Thread Group 1-10,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491760509,145,Search-7,304,Not Modified,Thread Group 1-10,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,92
+1560491760602,153,Search-8,304,Not Modified,Thread Group 1-10,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,95
+1560491760610,145,Search-9,304,Not Modified,Thread Group 1-10,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,87
+1560491760632,212,Search-10,304,Not Modified,Thread Group 1-10,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,176
+1560491760663,56,Search-11,304,Not Modified,Thread Group 1-10,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491760721,42,Search-12,304,Not Modified,Thread Group 1-10,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491760756,49,Search-13,304,Not Modified,Thread Group 1-10,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491760758,144,Search-14,304,Not Modified,Thread Group 1-10,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,87
+1560491760783,60,Search-15,304,Not Modified,Thread Group 1-10,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491760806,47,Search-16,304,Not Modified,Thread Group 1-10,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491760848,183,Search-17,200,OK,Thread Group 1-10,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,169,0,125
+1560491760846,48,Search-18,304,Not Modified,Thread Group 1-10,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491760854,62,Search-19,304,Not Modified,Thread Group 1-10,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491760909,593,Search-20,200,OK,Thread Group 1-10,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,593,0,557
+1560491760906,158,Search-21,304,Not Modified,Thread Group 1-10,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,111
+1560491763926,7351,Search,200,OK,Thread Group 1-5,text,true,,72362,12013,10,10,https://www.1-day.co.nz/s/twimxllpiqmeybv,374,0,132
+1560491763926,444,Search-0,200,OK,Thread Group 1-5,text,true,,51399,477,10,10,https://www.1-day.co.nz/s/twimxllpiqmeybv,374,0,132
+1560491764732,3393,Search-1,200,OK,Thread Group 1-5,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",3385,0,3251
+1560491764737,620,Search-2,200,OK,Thread Group 1-5,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,604,0,464
+1560491764732,3309,Search-3,304,Not Modified,Thread Group 1-5,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,3256
+1560491764868,3175,Search-4,304,Not Modified,Thread Group 1-5,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,3125
+1560491764857,3196,Search-5,304,Not Modified,Thread Group 1-5,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,3134
+1560491764735,336,Search-6,304,Not Modified,Thread Group 1-5,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491765078,3135,Search-7,304,Not Modified,Thread Group 1-5,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3088
+1560491765363,130,Search-8,304,Not Modified,Thread Group 1-5,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,90
+1560491765494,38,Search-9,304,Not Modified,Thread Group 1-5,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,0
+1560491765533,207,Search-10,304,Not Modified,Thread Group 1-5,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,173
+1560491765741,52,Search-11,304,Not Modified,Thread Group 1-5,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491765794,46,Search-12,304,Not Modified,Thread Group 1-5,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491765844,1196,Search-13,304,Not Modified,Thread Group 1-5,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,1131
+1560491767048,51,Search-14,304,Not Modified,Thread Group 1-5,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491767100,3172,Search-15,304,Not Modified,Thread Group 1-5,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,3136
+1560491768082,3194,Search-16,304,Not Modified,Thread Group 1-5,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,3149
+1560491768082,1150,Search-17,200,OK,Thread Group 1-5,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,1149,0,1088
+1560491768083,1141,Search-18,304,Not Modified,Thread Group 1-5,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,1094
+1560491768148,3129,Search-19,304,Not Modified,Thread Group 1-5,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,3085
+1560491768217,569,Search-20,200,OK,Thread Group 1-5,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,568,0,539
+1560491768787,174,Search-21,304,Not Modified,Thread Group 1-5,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,146
+1560491764036,7250,Search,200,OK,Thread Group 1-4,text,true,,72262,12013,10,10,https://www.1-day.co.nz/s/nsbtmvezrmfldnu,402,0,232
+1560491764036,479,Search-0,200,OK,Thread Group 1-4,text,true,,51299,477,10,10,https://www.1-day.co.nz/s/nsbtmvezrmfldnu,402,0,232
+1560491764920,3271,Search-1,200,OK,Thread Group 1-4,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",3262,0,3134
+1560491764872,3293,Search-2,200,OK,Thread Group 1-4,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,3293,0,3150
+1560491764872,3240,Search-3,304,Not Modified,Thread Group 1-4,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,3184
+1560491764868,3245,Search-4,304,Not Modified,Thread Group 1-4,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,3188
+1560491764865,3177,Search-5,304,Not Modified,Thread Group 1-4,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,3128
+1560491764861,214,Search-6,304,Not Modified,Thread Group 1-4,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491765091,1211,Search-7,304,Not Modified,Thread Group 1-4,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,1172
+1560491766303,49,Search-8,304,Not Modified,Thread Group 1-4,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,0
+1560491766354,45,Search-9,304,Not Modified,Thread Group 1-4,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,0
+1560491766410,223,Search-10,304,Not Modified,Thread Group 1-4,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,190
+1560491766635,58,Search-11,304,Not Modified,Thread Group 1-4,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491766694,44,Search-12,304,Not Modified,Thread Group 1-4,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491766739,199,Search-13,304,Not Modified,Thread Group 1-4,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,118
+1560491766942,45,Search-14,304,Not Modified,Thread Group 1-4,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491766988,52,Search-15,304,Not Modified,Thread Group 1-4,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491767047,52,Search-16,304,Not Modified,Thread Group 1-4,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491767105,3166,Search-17,200,OK,Thread Group 1-4,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,3130,0,3076
+1560491768083,1147,Search-18,304,Not Modified,Thread Group 1-4,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,1094
+1560491768137,3149,Search-19,304,Not Modified,Thread Group 1-4,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,3097
+1560491768139,568,Search-20,200,OK,Thread Group 1-4,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,568,0,529
+1560491768176,1256,Search-21,304,Not Modified,Thread Group 1-4,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,1193
+1560491764069,10164,Search,200,OK,Thread Group 1-8,text,true,,72329,12013,10,10,https://www.1-day.co.nz/s/fhspvqgomfxqkva,361,0,197
+1560491764069,444,Search-0,200,OK,Thread Group 1-8,text,true,,51366,477,10,10,https://www.1-day.co.nz/s/fhspvqgomfxqkva,361,0,197
+1560491764840,3470,Search-1,200,OK,Thread Group 1-8,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",3457,0,3327
+1560491764826,3483,Search-2,200,OK,Thread Group 1-8,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,3470,0,3340
+1560491764837,3194,Search-3,304,Not Modified,Thread Group 1-8,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,3150
+1560491764017,10216,Search,200,OK,Thread Group 1-1,text,true,,72314,12013,10,10,https://www.1-day.co.nz/s/ivqwohnioapzbsm,546,0,249
+1560491764647,229,Search-4,304,Not Modified,Thread Group 1-8,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,138
+1560491764069,10164,Search,200,OK,Thread Group 1-6,text,true,,72322,12115,10,10,https://www.1-day.co.nz/s/ciqwrpxbgsmphxy,366,0,197
+1560491764017,558,Search-0,200,OK,Thread Group 1-1,text,true,,51351,477,10,10,https://www.1-day.co.nz/s/ivqwohnioapzbsm,546,0,249
+1560491764597,477,Search-5,304,Not Modified,Thread Group 1-8,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,0
+1560491764069,426,Search-0,200,OK,Thread Group 1-6,text,true,,51359,483,10,10,https://www.1-day.co.nz/s/ciqwrpxbgsmphxy,366,0,197
+1560491764634,274,Search-1,200,OK,Thread Group 1-1,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",273,0,107
+1560491764597,177,Search-6,304,Not Modified,Thread Group 1-8,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,110
+1560491764983,2718,Search-1,200,OK,Thread Group 1-6,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",2707,0,2574
+1560491764639,499,Search-2,200,OK,Thread Group 1-1,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,496,0,364
+1560491764832,3208,Search-7,304,Not Modified,Thread Group 1-8,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3157
+1560491764983,7403,Search-2,200,OK,Thread Group 1-6,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,7375,0,7247
+1560491764639,437,Search-3,304,Not Modified,Thread Group 1-1,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491764979,3148,Search-3,304,Not Modified,Thread Group 1-6,,true,,504,565,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,3085
+1560491764924,3164,Search-8,304,Not Modified,Thread Group 1-8,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3101
+1560491764642,162,Search-4,304,Not Modified,Thread Group 1-1,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,105
+1560491764976,3150,Search-4,304,Not Modified,Thread Group 1-6,,true,,581,626,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,3087
+1560491765083,9150,Search-9,304,Not Modified,Thread Group 1-8,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,9082
+1560491764969,3243,Search-5,304,Not Modified,Thread Group 1-6,,true,,551,571,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,3198
+1560491768078,484,Search-10,304,Not Modified,Thread Group 1-8,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,448
+1560491764951,122,Search-6,304,Not Modified,Thread Group 1-6,,true,,581,628,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491768077,3130,Search-11,304,Not Modified,Thread Group 1-8,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,3080
+1560491765081,9152,Search-7,304,Not Modified,Thread Group 1-6,,true,,637,574,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,9092
+1560491768131,1192,Search-12,304,Not Modified,Thread Group 1-8,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,1123
+1560491767704,122,Search-8,304,Not Modified,Thread Group 1-6,,true,,580,609,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,83
+1560491768311,3134,Search-13,304,Not Modified,Thread Group 1-8,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,3096
+1560491768313,1171,Search-14,304,Not Modified,Thread Group 1-8,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,1119
+1560491768562,117,Search-15,304,Not Modified,Thread Group 1-8,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,80
+1560491768679,39,Search-16,304,Not Modified,Thread Group 1-8,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491768719,51,Search-17,200,OK,Thread Group 1-8,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,48,0,0
+1560491768771,38,Search-18,304,Not Modified,Thread Group 1-8,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491768809,47,Search-19,304,Not Modified,Thread Group 1-8,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491768858,114,Search-20,200,OK,Thread Group 1-8,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,114,0,76
+1560491768973,179,Search-21,304,Not Modified,Thread Group 1-8,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,144
+1560491767827,44,Search-9,304,Not Modified,Thread Group 1-6,,true,,579,614,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,0
+1560491767873,254,Search-10,304,Not Modified,Thread Group 1-6,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,217
+1560491768140,3136,Search-11,304,Not Modified,Thread Group 1-6,,true,,499,593,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,3091
+1560491768142,3134,Search-12,304,Not Modified,Thread Group 1-6,,true,,551,595,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,3089
+1560491768150,3136,Search-13,304,Not Modified,Thread Group 1-6,,true,,550,595,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,3085
+1560491768213,143,Search-14,304,Not Modified,Thread Group 1-6,,true,,498,595,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,97
+1560491768357,39,Search-15,304,Not Modified,Thread Group 1-6,,true,,551,596,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491768397,63,Search-16,304,Not Modified,Thread Group 1-6,,true,,682,583,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491768463,134,Search-17,200,OK,Thread Group 1-6,text,true,,4611,520,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,130,0,87
+1560491768597,44,Search-18,304,Not Modified,Thread Group 1-6,,true,,681,582,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491768646,61,Search-19,304,Not Modified,Thread Group 1-6,,true,,580,631,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491768709,263,Search-20,200,OK,Thread Group 1-6,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,263,0,229
+1560491768973,176,Search-21,304,Not Modified,Thread Group 1-6,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,144
+1560491764644,263,Search-5,304,Not Modified,Thread Group 1-1,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,178
+1560491764646,317,Search-6,304,Not Modified,Thread Group 1-1,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,254
+1560491764856,3185,Search-7,304,Not Modified,Thread Group 1-1,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3134
+1560491764966,3147,Search-8,304,Not Modified,Thread Group 1-1,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3091
+1560491764968,3159,Search-9,304,Not Modified,Thread Group 1-1,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,3094
+1560491764972,3193,Search-10,304,Not Modified,Thread Group 1-1,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,3146
+1560491765089,9144,Search-11,304,Not Modified,Thread Group 1-1,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,9082
+1560491765145,1141,Search-12,304,Not Modified,Thread Group 1-1,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,1100
+1560491766288,130,Search-13,304,Not Modified,Thread Group 1-1,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,90
+1560491766420,56,Search-14,304,Not Modified,Thread Group 1-1,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491766477,51,Search-15,304,Not Modified,Thread Group 1-1,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491766529,76,Search-16,304,Not Modified,Thread Group 1-1,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491766607,64,Search-17,200,OK,Thread Group 1-1,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,51,0,0
+1560491766672,66,Search-18,304,Not Modified,Thread Group 1-1,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491766739,199,Search-19,304,Not Modified,Thread Group 1-1,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,118
+1560491766946,319,Search-20,200,OK,Thread Group 1-1,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,319,0,277
+1560491767266,3174,Search-21,304,Not Modified,Thread Group 1-1,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,3143
+1560491764017,10314,Search,200,OK,Thread Group 1-2,text,true,,72304,12013,10,10,https://www.1-day.co.nz/s/sblhwbckddmhssu,465,0,277
+1560491764017,507,Search-0,200,OK,Thread Group 1-2,text,true,,51341,477,10,10,https://www.1-day.co.nz/s/sblhwbckddmhssu,465,0,277
+1560491764598,308,Search-1,200,OK,Thread Group 1-2,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",307,0,119
+1560491764600,285,Search-2,200,OK,Thread Group 1-2,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,285,0,110
+1560491764604,471,Search-3,304,Not Modified,Thread Group 1-2,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491764605,187,Search-4,304,Not Modified,Thread Group 1-2,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,105
+1560491764606,169,Search-5,304,Not Modified,Thread Group 1-2,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,106
+1560491764608,183,Search-6,304,Not Modified,Thread Group 1-2,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,110
+1560491763926,10405,Search,200,OK,Thread Group 1-9,text,true,,72314,12013,10,10,https://www.1-day.co.nz/s/fggubviltcrwetc,369,0,132
+1560491764843,3193,Search-7,304,Not Modified,Thread Group 1-2,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3143
+1560491763926,445,Search-0,200,OK,Thread Group 1-9,text,true,,51351,477,10,10,https://www.1-day.co.nz/s/fggubviltcrwetc,369,0,132
+1560491764843,3200,Search-8,304,Not Modified,Thread Group 1-2,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3143
+1560491764624,528,Search-1,200,OK,Thread Group 1-9,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",518,0,389
+1560491764847,3205,Search-9,304,Not Modified,Thread Group 1-2,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,3145
+1560491764624,513,Search-2,200,OK,Thread Group 1-9,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,509,0,379
+1560491764931,3234,Search-10,304,Not Modified,Thread Group 1-2,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,3184
+1560491764625,1304,Search-3,304,Not Modified,Thread Group 1-9,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,1261
+1560491764928,3198,Search-11,304,Not Modified,Thread Group 1-2,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,3131
+1560491764627,445,Search-4,304,Not Modified,Thread Group 1-9,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,0
+1560491765086,9245,Search-12,304,Not Modified,Thread Group 1-2,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,9182
+1560491764628,173,Search-5,304,Not Modified,Thread Group 1-9,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,98
+1560491768080,1150,Search-13,304,Not Modified,Thread Group 1-2,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,1097
+1560491764629,173,Search-6,304,Not Modified,Thread Group 1-9,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,113
+1560491764853,3187,Search-7,304,Not Modified,Thread Group 1-9,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3136
+1560491768081,1151,Search-14,304,Not Modified,Thread Group 1-2,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,1100
+1560491764854,3184,Search-8,304,Not Modified,Thread Group 1-9,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3136
+1560491765079,9252,Search-9,304,Not Modified,Thread Group 1-9,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,9191
+1560491768081,193,Search-15,304,Not Modified,Thread Group 1-2,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,123
+1560491765146,473,Search-10,304,Not Modified,Thread Group 1-9,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,439
+1560491765158,9173,Search-11,304,Not Modified,Thread Group 1-9,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,9111
+1560491768150,1174,Search-16,304,Not Modified,Thread Group 1-2,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,1129
+1560491765620,177,Search-12,304,Not Modified,Thread Group 1-9,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,124
+1560491768172,1160,Search-17,200,OK,Thread Group 1-2,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,1159,0,1114
+1560491765798,43,Search-13,304,Not Modified,Thread Group 1-9,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491768284,142,Search-18,304,Not Modified,Thread Group 1-2,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,96
+1560491765848,1192,Search-14,304,Not Modified,Thread Group 1-9,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,1127
+1560491768427,39,Search-19,304,Not Modified,Thread Group 1-2,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491765932,3237,Search-15,304,Not Modified,Thread Group 1-9,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,3172
+1560491768469,552,Search-20,200,OK,Thread Group 1-2,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,552,0,520
+1560491767045,54,Search-16,304,Not Modified,Thread Group 1-9,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491769022,118,Search-21,304,Not Modified,Thread Group 1-2,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,70
+1560491767105,48,Search-17,200,OK,Thread Group 1-9,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,44,0,0
+1560491767154,46,Search-18,304,Not Modified,Thread Group 1-9,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491767202,56,Search-19,304,Not Modified,Thread Group 1-9,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491767259,189,Search-20,200,OK,Thread Group 1-9,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,188,0,156
+1560491767450,302,Search-21,304,Not Modified,Thread Group 1-9,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,272
+1560491763931,26469,Search,200,OK,Thread Group 1-3,text,true,,72322,12013,10,10,https://www.1-day.co.nz/s/uydbcmnmnizoayl,379,0,127
+1560491763931,491,Search-0,200,OK,Thread Group 1-3,text,true,,51359,477,10,10,https://www.1-day.co.nz/s/uydbcmnmnizoayl,379,0,127
+1560491764609,501,Search-1,200,OK,Thread Group 1-3,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",500,0,352
+1560491764614,289,Search-2,200,OK,Thread Group 1-3,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,289,0,101
+1560491764615,460,Search-3,304,Not Modified,Thread Group 1-3,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491764616,268,Search-4,304,Not Modified,Thread Group 1-3,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,142
+1560491764621,179,Search-5,304,Not Modified,Thread Group 1-3,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,103
+1560491764621,181,Search-6,304,Not Modified,Thread Group 1-3,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,119
+1560491764847,3205,Search-7,304,Not Modified,Thread Group 1-3,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3144
+1560491764851,3179,Search-8,304,Not Modified,Thread Group 1-3,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3134
+1560491764935,3230,Search-9,304,Not Modified,Thread Group 1-3,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,3175
+1560491764931,3215,Search-10,304,Not Modified,Thread Group 1-3,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,3179
+1560491765086,1200,Search-11,304,Not Modified,Thread Group 1-3,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,1155
+1560491765113,3172,Search-12,304,Not Modified,Thread Group 1-3,,true,,551,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,3090
+1560491766288,3196,Search-13,304,Not Modified,Thread Group 1-3,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,3144
+1560491768087,3189,Search-14,304,Not Modified,Thread Group 1-3,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,3147
+1560491768076,1187,Search-15,304,Not Modified,Thread Group 1-3,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,1142
+1560491768153,9129,Search-16,304,Not Modified,Thread Group 1-3,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,9090
+1560491768172,22228,Search-17,200,OK,Thread Group 1-3,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,22227,0,22184
+1560491768288,121,Search-18,304,Not Modified,Thread Group 1-3,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,77
+1560491768411,48,Search-19,304,Not Modified,Thread Group 1-3,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491768462,279,Search-20,200,OK,Thread Group 1-3,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,279,0,242
+1560491768743,190,Search-21,304,Not Modified,Thread Group 1-3,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,143
+1560491764027,46154,Search,200,"Embedded resource download error:https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-7,text,false,,74643,11424,10,10,https://www.1-day.co.nz/s/igdniokoleynzhn,374,0,241
+1560491764027,416,Search-0,200,OK,Thread Group 1-7,text,true,,51299,477,10,10,https://www.1-day.co.nz/s/igdniokoleynzhn,374,0,241
+1560491764587,322,Search-1,200,OK,Thread Group 1-7,text,true,,3662,439,10,10,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",314,0,126
+1560491764594,312,Search-2,200,OK,Thread Group 1-7,text,true,,1182,432,10,10,https://fonts.googleapis.com/icon?family=Material+Icons,312,0,122
+1560491764595,481,Search-3,304,Not Modified,Thread Group 1-7,,true,,504,559,10,10,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491764992,3176,Search-4,304,Not Modified,Thread Group 1-7,,true,,581,620,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,3120
+1560491764990,9147,Search-5,304,Not Modified,Thread Group 1-7,,true,,551,565,10,10,https://www.1-day.co.nz/images/favicon.ico,0,0,9103
+1560491764985,9150,Search-6,304,Not Modified,Thread Group 1-7,,true,,581,622,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,9108
+1560491764955,3138,Search-7,304,Not Modified,Thread Group 1-7,,true,,637,568,10,10,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3082
+1560491764959,3168,Search-8,304,Not Modified,Thread Group 1-7,,true,,580,603,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3101
+1560491765095,9138,Search-9,304,Not Modified,Thread Group 1-7,,true,,579,608,10,10,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,9076
+1560491768136,474,Search-10,304,Not Modified,Thread Group 1-7,,true,,175,477,10,10,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,436
+1560491768134,3142,Search-11,304,Not Modified,Thread Group 1-7,,true,,499,587,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,3099
+1560491768175,42006,Search-12,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-7,text,false,,2932,0,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,42006
+1560491768611,184,Search-13,304,Not Modified,Thread Group 1-7,,true,,550,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,147
+1560491768796,60,Search-14,304,Not Modified,Thread Group 1-7,,true,,498,589,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491768857,42,Search-15,304,Not Modified,Thread Group 1-7,,true,,551,590,10,10,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491768899,50,Search-16,304,Not Modified,Thread Group 1-7,,true,,682,577,10,10,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491768949,58,Search-17,200,OK,Thread Group 1-7,text,true,,4611,514,10,10,https://www.1-day.co.nz/docs/scripts/jquery.lazy.min.js?v=58f5169254cd4718bdd0,50,0,0
+1560491769007,42,Search-18,304,Not Modified,Thread Group 1-7,,true,,681,576,10,10,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491769049,43,Search-19,304,Not Modified,Thread Group 1-7,,true,,580,625,10,10,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491769093,277,Search-20,200,OK,Thread Group 1-7,text,true,,1987,388,10,10,https://partner.googleadservices.com/gampad/google_service.js,277,0,244
+1560491769372,207,Search-21,304,Not Modified,Thread Group 1-7,text,true,,741,419,10,10,https://connect.facebook.net/en_US/all.js,0,0,175
+1560491784620,43510,Navigate to Logout,200,"Embedded resource download error:https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, https://cdn.publift.com/fuse/tag/2/1032/fuse.js code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to cdn.publift.com:443 [cdn.publift.com/35.186.192.16] failed: Connection timed out: connect, ",Thread Group 1-10,text,false,,67571,10389,9,9,https://www.1-day.co.nz/orderlist.do,1257,0,1180
+1560491784620,1282,Navigate to Logout-0,200,OK,Thread Group 1-10,text,true,,43210,472,9,9,https://www.1-day.co.nz/orderlist.do,1257,0,1180
+1560491785921,7324,Navigate to Logout-1,200,OK,Thread Group 1-10,text,true,,3662,439,9,9,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",7293,0,7155
+1560491785924,253,Navigate to Logout-2,200,OK,Thread Group 1-10,text,true,,1182,432,9,9,https://fonts.googleapis.com/icon?family=Material+Icons,243,0,110
+1560491785980,24138,Navigate to Logout-3,304,Not Modified,Thread Group 1-10,,true,,504,559,9,9,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,24096
+1560491785976,137,Navigate to Logout-4,304,Not Modified,Thread Group 1-10,,true,,581,620,9,9,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,91
+1560491785973,131,Navigate to Logout-5,304,Not Modified,Thread Group 1-10,,true,,551,565,9,9,https://www.1-day.co.nz/images/favicon.ico,0,0,94
+1560491785969,64,Navigate to Logout-6,304,Not Modified,Thread Group 1-10,,true,,581,622,9,9,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491786035,9153,Navigate to Logout-7,304,Not Modified,Thread Group 1-10,,true,,637,568,9,9,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,9104
+1560491786114,42013,Navigate to Logout-8,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-10,text,false,,2932,0,9,9,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,42013
+1560491786117,42013,Navigate to Logout-9,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-10,text,false,,2932,0,9,9,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,42013
+1560491786180,21004,Navigate to Logout-10,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to cdn.publift.com:443 [cdn.publift.com/35.186.192.16] failed: Connection timed out: connect,Thread Group 1-10,text,false,,2899,0,9,9,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,21003
+1560491793248,9131,Navigate to Logout-11,304,Not Modified,Thread Group 1-10,,true,,499,587,9,9,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,9083
+1560491795188,9141,Navigate to Logout-12,304,Not Modified,Thread Group 1-10,,true,,551,589,9,9,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,9088
+1560491802380,1210,Navigate to Logout-13,304,Not Modified,Thread Group 1-10,,true,,550,589,9,9,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,1162
+1560491803590,79,Navigate to Logout-14,304,Not Modified,Thread Group 1-10,,true,,498,589,9,9,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491803672,1190,Navigate to Logout-15,304,Not Modified,Thread Group 1-10,,true,,551,590,9,9,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,1151
+1560491804331,149,Navigate to Logout-16,304,Not Modified,Thread Group 1-10,,true,,682,577,9,9,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,99
+1560491804481,74,Navigate to Logout-17,304,Not Modified,Thread Group 1-10,,true,,580,583,9,9,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491804556,51,Navigate to Logout-18,304,Not Modified,Thread Group 1-10,,true,,681,576,9,9,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491804607,49,Navigate to Logout-19,304,Not Modified,Thread Group 1-10,,true,,580,625,9,9,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491804657,2416,Navigate to Logout-20,200,OK,Thread Group 1-10,text,true,,1987,388,9,9,https://partner.googleadservices.com/gampad/google_service.js,2415,0,2384
+1560491804866,270,Navigate to Logout-21,304,Not Modified,Thread Group 1-10,text,true,,741,419,9,9,https://connect.facebook.net/en_US/all.js,0,0,229
+1560491794249,43331,Navigate to Logout,200,"Embedded resource download error:https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-5,text,false,,72888,10916,8,8,https://www.1-day.co.nz/orderlist.do,1230,0,1115
+1560491794249,1268,Navigate to Logout-0,200,OK,Thread Group 1-5,text,true,,51282,472,8,8,https://www.1-day.co.nz/orderlist.do,1230,0,1115
+1560491795540,7319,Navigate to Logout-1,200,OK,Thread Group 1-5,text,true,,3662,439,8,8,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",7299,0,7167
+1560491795540,17435,Navigate to Logout-2,200,OK,Thread Group 1-5,text,true,,1182,432,8,8,https://fonts.googleapis.com/icon?family=Material+Icons,17415,0,17289
+1560491795541,42039,Navigate to Logout-3,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-5,text,false,,2932,0,8,8,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,42039
+1560491795542,234,Navigate to Logout-4,304,Not Modified,Thread Group 1-5,,true,,581,620,8,8,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,196
+1560491795547,75,Navigate to Logout-5,304,Not Modified,Thread Group 1-5,,true,,551,565,8,8,https://www.1-day.co.nz/images/favicon.ico,0,0,0
+1560491795548,42018,Navigate to Logout-6,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-5,text,false,,2932,0,8,8,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,42018
+1560491795623,1207,Navigate to Logout-7,304,Not Modified,Thread Group 1-5,,true,,637,568,8,8,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,1152
+1560491795778,1194,Navigate to Logout-8,304,Not Modified,Thread Group 1-5,,true,,580,603,8,8,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,1138
+1560491796832,83,Navigate to Logout-9,304,Not Modified,Thread Group 1-5,,true,,579,608,8,8,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,0
+1560491796925,2562,Navigate to Logout-10,304,Not Modified,Thread Group 1-5,,true,,175,477,8,8,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,2526
+1560491796974,55,Navigate to Logout-11,304,Not Modified,Thread Group 1-5,,true,,499,587,8,8,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491797034,56,Navigate to Logout-12,304,Not Modified,Thread Group 1-5,,true,,550,589,8,8,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491797090,40,Navigate to Logout-13,304,Not Modified,Thread Group 1-5,,true,,550,589,8,8,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491797133,40,Navigate to Logout-14,304,Not Modified,Thread Group 1-5,,true,,498,589,8,8,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491797174,41,Navigate to Logout-15,304,Not Modified,Thread Group 1-5,,true,,551,590,8,8,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491797218,52,Navigate to Logout-16,304,Not Modified,Thread Group 1-5,,true,,682,577,8,8,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491797272,59,Navigate to Logout-17,304,Not Modified,Thread Group 1-5,,true,,476,603,8,8,https://www.1-day.co.nz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js,0,0,0
+1560491797332,48,Navigate to Logout-18,304,Not Modified,Thread Group 1-5,,true,,681,576,8,8,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491797381,76,Navigate to Logout-19,304,Not Modified,Thread Group 1-5,,true,,580,625,8,8,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491797459,599,Navigate to Logout-20,200,OK,Thread Group 1-5,text,true,,1987,388,8,8,https://partner.googleadservices.com/gampad/google_service.js,599,0,549
+1560491798060,5194,Navigate to Logout-21,304,Not Modified,Thread Group 1-5,text,true,,741,419,8,8,https://connect.facebook.net/en_US/all.js,0,0,5163
+1560491797223,42357,Navigate to Logout,200,"Embedded resource download error:https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-8,text,false,,62630,11518,7,7,https://www.1-day.co.nz/orderlist.do,242,0,150
+1560491797223,270,Navigate to Logout-0,200,OK,Thread Group 1-8,text,true,,43270,472,7,7,https://www.1-day.co.nz/orderlist.do,242,0,150
+1560491797506,3473,Navigate to Logout-1,200,OK,Thread Group 1-8,text,true,,3662,439,7,7,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",3447,0,3316
+1560491797514,555,Navigate to Logout-2,200,OK,Thread Group 1-8,text,true,,1182,432,7,7,https://fonts.googleapis.com/icon?family=Material+Icons,548,0,415
+1560491797506,42074,Navigate to Logout-3,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-8,text,false,,2932,0,7,7,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,42074
+1560491797506,164,Navigate to Logout-4,304,Not Modified,Thread Group 1-8,,true,,581,620,7,7,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,114
+1560491797507,10190,Navigate to Logout-5,304,Not Modified,Thread Group 1-8,,true,,551,565,7,7,https://www.1-day.co.nz/images/favicon.ico,0,0,10147
+1560491797510,58,Navigate to Logout-6,304,Not Modified,Thread Group 1-8,,true,,581,622,7,7,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491797569,142,Navigate to Logout-7,304,Not Modified,Thread Group 1-8,,true,,637,568,7,7,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,95
+1560491797672,114,Navigate to Logout-8,304,Not Modified,Thread Group 1-8,,true,,580,603,7,7,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,74
+1560491797712,39,Navigate to Logout-9,304,Not Modified,Thread Group 1-8,,true,,579,608,7,7,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,0
+1560491797752,182,Navigate to Logout-10,304,Not Modified,Thread Group 1-8,,true,,175,477,7,7,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,143
+1560491797787,41,Navigate to Logout-11,304,Not Modified,Thread Group 1-8,,true,,499,587,7,7,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491797829,38,Navigate to Logout-12,304,Not Modified,Thread Group 1-8,,true,,551,589,7,7,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491797868,62,Navigate to Logout-13,304,Not Modified,Thread Group 1-8,,true,,550,589,7,7,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491797930,86,Navigate to Logout-14,304,Not Modified,Thread Group 1-8,,true,,498,589,7,7,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491797935,44,Navigate to Logout-15,304,Not Modified,Thread Group 1-8,,true,,551,590,7,7,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491797980,46,Navigate to Logout-16,304,Not Modified,Thread Group 1-8,,true,,682,577,7,7,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491798016,42,Navigate to Logout-17,304,Not Modified,Thread Group 1-8,,true,,580,583,7,7,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491798027,43,Navigate to Logout-18,304,Not Modified,Thread Group 1-8,,true,,681,576,7,7,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491798059,41,Navigate to Logout-19,304,Not Modified,Thread Group 1-8,,true,,580,625,7,7,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491798072,7312,Navigate to Logout-20,200,OK,Thread Group 1-8,text,true,,1987,388,7,7,https://partner.googleadservices.com/gampad/google_service.js,7312,0,7263
+1560491798072,5366,Navigate to Logout-21,304,Not Modified,Thread Group 1-8,text,true,,741,419,7,7,https://connect.facebook.net/en_US/all.js,0,0,5336
+1560491798768,42291,Navigate to Logout,200,"Embedded resource download error:https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-3,text,false,,62501,11457,6,6,https://www.1-day.co.nz/orderlist.do,217,0,112
+1560491798768,251,Navigate to Logout-0,200,OK,Thread Group 1-3,text,true,,43218,472,6,6,https://www.1-day.co.nz/orderlist.do,217,0,112
+1560491799035,291,Navigate to Logout-1,200,OK,Thread Group 1-3,text,true,,3662,439,6,6,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",273,0,135
+1560491799036,275,Navigate to Logout-2,200,OK,Thread Group 1-3,text,true,,1182,432,6,6,https://fonts.googleapis.com/icon?family=Material+Icons,272,0,133
+1560491799040,68,Navigate to Logout-3,304,Not Modified,Thread Group 1-3,,true,,504,559,6,6,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,0
+1560491799051,42008,Navigate to Logout-4,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-3,text,false,,2932,0,6,6,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,42008
+1560491799048,10248,Navigate to Logout-5,304,Not Modified,Thread Group 1-3,,true,,551,565,6,6,https://www.1-day.co.nz/images/favicon.ico,0,0,10160
+1560491799048,174,Navigate to Logout-6,304,Not Modified,Thread Group 1-3,,true,,581,622,6,6,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,121
+1560491799110,1161,Navigate to Logout-7,304,Not Modified,Thread Group 1-3,,true,,637,568,6,6,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,1108
+1560491799223,1198,Navigate to Logout-8,304,Not Modified,Thread Group 1-3,,true,,580,603,6,6,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,1159
+1560491799312,3143,Navigate to Logout-9,304,Not Modified,Thread Group 1-3,,true,,579,608,6,6,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,3103
+1560491799327,543,Navigate to Logout-10,304,Not Modified,Thread Group 1-3,,true,,175,477,6,6,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,503
+1560491799871,157,Navigate to Logout-11,304,Not Modified,Thread Group 1-3,,true,,499,587,6,6,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,111
+1560491800029,45,Navigate to Logout-12,304,Not Modified,Thread Group 1-3,,true,,551,589,6,6,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491800074,52,Navigate to Logout-13,304,Not Modified,Thread Group 1-3,,true,,550,589,6,6,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491800126,42,Navigate to Logout-14,304,Not Modified,Thread Group 1-3,,true,,498,589,6,6,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491800169,41,Navigate to Logout-15,304,Not Modified,Thread Group 1-3,,true,,551,590,6,6,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491800211,43,Navigate to Logout-16,304,Not Modified,Thread Group 1-3,,true,,682,577,6,6,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491800255,50,Navigate to Logout-17,304,Not Modified,Thread Group 1-3,,true,,580,583,6,6,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491800272,44,Navigate to Logout-18,304,Not Modified,Thread Group 1-3,,true,,681,576,6,6,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491800306,50,Navigate to Logout-19,304,Not Modified,Thread Group 1-3,,true,,580,625,6,6,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491800317,444,Navigate to Logout-20,200,OK,Thread Group 1-3,text,true,,1987,388,6,6,https://partner.googleadservices.com/gampad/google_service.js,443,0,399
+1560491800359,267,Navigate to Logout-21,304,Not Modified,Thread Group 1-3,text,true,,741,419,6,6,https://connect.facebook.net/en_US/all.js,0,0,235
+1560491797224,43866,Navigate to Logout,200,"Embedded resource download error:https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to fonts.googleapis.com:443 [fonts.googleapis.com/216.58.196.138] failed: Connection timed out: connect, https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-1,text,false,,61868,11051,5,5,https://www.1-day.co.nz/orderlist.do,1239,0,1151
+1560491797224,1279,Navigate to Logout-0,200,OK,Thread Group 1-1,text,true,,43255,472,5,5,https://www.1-day.co.nz/orderlist.do,1239,0,1151
+1560491798517,21015,Navigate to Logout-1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to fonts.googleapis.com:443 [fonts.googleapis.com/216.58.196.138] failed: Connection timed out: connect,Thread Group 1-1,text,false,,2910,0,5,5,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",0,0,21015
+1560491798517,555,Navigate to Logout-2,200,OK,Thread Group 1-1,text,true,,1182,432,5,5,https://fonts.googleapis.com/icon?family=Material+Icons,528,0,401
+1560491798517,138,Navigate to Logout-3,304,Not Modified,Thread Group 1-1,,true,,504,559,5,5,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,101
+1560491798517,10153,Navigate to Logout-4,304,Not Modified,Thread Group 1-1,,true,,581,620,5,5,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,10115
+1560491798517,159,Navigate to Logout-5,304,Not Modified,Thread Group 1-1,,true,,551,565,5,5,https://www.1-day.co.nz/images/favicon.ico,0,0,101
+1560491798518,51,Navigate to Logout-6,304,Not Modified,Thread Group 1-1,,true,,581,622,5,5,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,0
+1560491798570,9123,Navigate to Logout-7,304,Not Modified,Thread Group 1-1,,true,,637,568,5,5,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,9084
+1560491798656,138,Navigate to Logout-8,304,Not Modified,Thread Group 1-1,,true,,580,603,5,5,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,83
+1560491798676,4247,Navigate to Logout-9,304,Not Modified,Thread Group 1-1,,true,,579,608,5,5,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,4204
+1560491798797,7222,Navigate to Logout-10,304,Not Modified,Thread Group 1-1,,true,,175,477,5,5,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,7179
+1560491799076,42014,Navigate to Logout-11,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-1,text,false,,2932,0,5,5,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,42014
+1560491802925,3180,Navigate to Logout-12,304,Not Modified,Thread Group 1-1,,true,,551,589,5,5,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,3121
+1560491806021,1199,Navigate to Logout-13,304,Not Modified,Thread Group 1-1,,true,,550,589,5,5,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,1150
+1560491806106,9154,Navigate to Logout-14,304,Not Modified,Thread Group 1-1,,true,,498,589,5,5,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,9110
+1560491807220,38,Navigate to Logout-15,304,Not Modified,Thread Group 1-1,,true,,551,590,5,5,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491807258,41,Navigate to Logout-16,304,Not Modified,Thread Group 1-1,,true,,682,577,5,5,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491807300,37,Navigate to Logout-17,304,Not Modified,Thread Group 1-1,,true,,580,583,5,5,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491807339,40,Navigate to Logout-18,304,Not Modified,Thread Group 1-1,,true,,681,576,5,5,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491807380,40,Navigate to Logout-19,304,Not Modified,Thread Group 1-1,,true,,580,625,5,5,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491807422,7289,Navigate to Logout-20,200,OK,Thread Group 1-1,text,true,,1987,388,5,5,https://partner.googleadservices.com/gampad/google_service.js,7289,0,7259
+1560491807695,5132,Navigate to Logout-21,304,Not Modified,Thread Group 1-1,text,true,,741,419,5,5,https://connect.facebook.net/en_US/all.js,0,0,5085
+1560491797296,45319,Navigate to Logout,200,"Embedded resource download error:https://fonts.googleapis.com/icon?family=Material+Icons code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to fonts.googleapis.com:443 [fonts.googleapis.com/216.58.196.138] failed: Connection timed out: connect, https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, https://www.1-day.co.nz/images/favicon.ico code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-9,text,false,,66739,10521,4,4,https://www.1-day.co.nz/orderlist.do,3177,0,3092
+1560491797296,3284,Navigate to Logout-0,200,OK,Thread Group 1-9,text,true,,43270,472,4,4,https://www.1-day.co.nz/orderlist.do,3177,0,3092
+1560491800602,9405,Navigate to Logout-1,200,OK,Thread Group 1-9,text,true,,3662,439,4,4,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",9383,0,9257
+1560491800605,21008,Navigate to Logout-2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to fonts.googleapis.com:443 [fonts.googleapis.com/216.58.196.138] failed: Connection timed out: connect,Thread Group 1-9,text,false,,2910,0,4,4,https://fonts.googleapis.com/icon?family=Material+Icons,0,0,21008
+1560491800605,42010,Navigate to Logout-3,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-9,text,false,,2932,0,4,4,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,42010
+1560491800606,9144,Navigate to Logout-4,304,Not Modified,Thread Group 1-9,,true,,581,620,4,4,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,9098
+1560491800607,42007,Navigate to Logout-5,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-9,text,false,,2932,0,4,4,https://www.1-day.co.nz/images/favicon.ico,0,0,42007
+1560491800609,10162,Navigate to Logout-6,304,Not Modified,Thread Group 1-9,,true,,581,622,4,4,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,10119
+1560491809752,1164,Navigate to Logout-7,304,Not Modified,Thread Group 1-9,,true,,637,568,4,4,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,1117
+1560491810008,3154,Navigate to Logout-8,304,Not Modified,Thread Group 1-9,,true,,580,603,4,4,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,3111
+1560491810772,135,Navigate to Logout-9,304,Not Modified,Thread Group 1-9,,true,,579,608,4,4,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,94
+1560491810910,188,Navigate to Logout-10,304,Not Modified,Thread Group 1-9,,true,,175,477,4,4,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,147
+1560491810917,40,Navigate to Logout-11,304,Not Modified,Thread Group 1-9,,true,,499,587,4,4,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491810959,40,Navigate to Logout-12,304,Not Modified,Thread Group 1-9,,true,,551,589,4,4,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491811000,40,Navigate to Logout-13,304,Not Modified,Thread Group 1-9,,true,,550,589,4,4,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491811041,41,Navigate to Logout-14,304,Not Modified,Thread Group 1-9,,true,,498,589,4,4,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491811082,51,Navigate to Logout-15,304,Not Modified,Thread Group 1-9,,true,,551,590,4,4,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491811099,41,Navigate to Logout-16,304,Not Modified,Thread Group 1-9,,true,,682,577,4,4,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491811134,41,Navigate to Logout-17,304,Not Modified,Thread Group 1-9,,true,,580,583,4,4,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491811141,36,Navigate to Logout-18,304,Not Modified,Thread Group 1-9,,true,,681,576,4,4,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491811176,40,Navigate to Logout-19,304,Not Modified,Thread Group 1-9,,true,,580,625,4,4,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491811179,422,Navigate to Logout-20,200,OK,Thread Group 1-9,text,true,,1987,388,4,4,https://partner.googleadservices.com/gampad/google_service.js,422,0,386
+1560491811217,1125,Navigate to Logout-21,304,Not Modified,Thread Group 1-9,text,true,,741,419,4,4,https://connect.facebook.net/en_US/all.js,0,0,1094
+1560491797226,45437,Navigate to Logout,200,"Embedded resource download error:https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-6,text,false,,62489,11605,3,3,https://www.1-day.co.nz/orderlist.do,3186,0,3080
+1560491797226,3214,Navigate to Logout-0,200,OK,Thread Group 1-6,text,true,,43262,478,3,3,https://www.1-day.co.nz/orderlist.do,3186,0,3080
+1560491800464,227,Navigate to Logout-1,200,OK,Thread Group 1-6,text,true,,3662,439,3,3,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",208,0,81
+1560491800469,528,Navigate to Logout-2,200,OK,Thread Group 1-6,text,true,,1182,432,3,3,https://fonts.googleapis.com/icon?family=Material+Icons,527,0,390
+1560491800475,9131,Navigate to Logout-3,304,Not Modified,Thread Group 1-6,,true,,504,565,3,3,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,9091
+1560491800488,182,Navigate to Logout-4,304,Not Modified,Thread Group 1-6,,true,,581,626,3,3,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,139
+1560491800512,139,Navigate to Logout-5,304,Not Modified,Thread Group 1-6,,true,,551,571,3,3,https://www.1-day.co.nz/images/favicon.ico,0,0,83
+1560491800515,136,Navigate to Logout-6,304,Not Modified,Thread Group 1-6,,true,,581,628,3,3,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,82
+1560491800655,42008,Navigate to Logout-7,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-6,text,false,,2932,0,3,3,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,42008
+1560491800657,223,Navigate to Logout-8,304,Not Modified,Thread Group 1-6,,true,,580,609,3,3,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,166
+1560491800671,1169,Navigate to Logout-9,304,Not Modified,Thread Group 1-6,,true,,579,614,3,3,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,1127
+1560491800697,228,Navigate to Logout-10,304,Not Modified,Thread Group 1-6,,true,,175,477,3,3,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,191
+1560491800881,167,Navigate to Logout-11,304,Not Modified,Thread Group 1-6,,true,,499,593,3,3,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,101
+1560491800928,1152,Navigate to Logout-12,304,Not Modified,Thread Group 1-6,,true,,551,595,3,3,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,1110
+1560491800998,1184,Navigate to Logout-13,304,Not Modified,Thread Group 1-6,,true,,550,595,3,3,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,1129
+1560491801049,51,Navigate to Logout-14,304,Not Modified,Thread Group 1-6,,true,,498,595,3,3,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491801101,48,Navigate to Logout-15,304,Not Modified,Thread Group 1-6,,true,,551,596,3,3,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491801149,53,Navigate to Logout-16,304,Not Modified,Thread Group 1-6,,true,,682,583,3,3,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491801203,128,Navigate to Logout-17,304,Not Modified,Thread Group 1-6,,true,,580,589,3,3,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491801332,47,Navigate to Logout-18,304,Not Modified,Thread Group 1-6,,true,,681,582,3,3,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491801380,41,Navigate to Logout-19,304,Not Modified,Thread Group 1-6,,true,,580,631,3,3,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491801421,7119,Navigate to Logout-20,200,OK,Thread Group 1-6,text,true,,1987,388,3,3,https://partner.googleadservices.com/gampad/google_service.js,7119,0,7087
+1560491801843,3383,Navigate to Logout-21,304,Not Modified,Thread Group 1-6,text,true,,741,419,3,3,https://connect.facebook.net/en_US/all.js,0,0,3330
+1560491797295,45438,Navigate to Logout,200,"Embedded resource download error:https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0 code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, ",Thread Group 1-2,text,false,,64907,10866,2,2,https://www.1-day.co.nz/orderlist.do,3205,0,3094
+1560491797295,3231,Navigate to Logout-0,200,OK,Thread Group 1-2,text,true,,43270,472,2,2,https://www.1-day.co.nz/orderlist.do,3205,0,3094
+1560491800555,424,Navigate to Logout-1,200,OK,Thread Group 1-2,text,true,,3662,439,2,2,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",399,0,268
+1560491800556,265,Navigate to Logout-2,200,OK,Thread Group 1-2,text,true,,1182,432,2,2,https://fonts.googleapis.com/icon?family=Material+Icons,243,0,108
+1560491800557,9197,Navigate to Logout-3,304,Not Modified,Thread Group 1-2,,true,,504,559,2,2,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,9148
+1560491800558,157,Navigate to Logout-4,304,Not Modified,Thread Group 1-2,,true,,581,620,2,2,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,95
+1560491800562,156,Navigate to Logout-5,304,Not Modified,Thread Group 1-2,,true,,551,565,2,2,https://www.1-day.co.nz/images/favicon.ico,0,0,101
+1560491800562,156,Navigate to Logout-6,304,Not Modified,Thread Group 1-2,,true,,581,622,2,2,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,103
+1560491800721,184,Navigate to Logout-7,304,Not Modified,Thread Group 1-2,,true,,637,568,2,2,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,138
+1560491800720,42011,Navigate to Logout-8,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-2,text,false,,2932,0,2,2,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,42011
+1560491800724,42009,Navigate to Logout-9,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-2,text,false,,2932,0,2,2,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,42009
+1560491800828,209,Navigate to Logout-10,304,Not Modified,Thread Group 1-2,,true,,175,477,2,2,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,167
+1560491800906,41,Navigate to Logout-11,304,Not Modified,Thread Group 1-2,,true,,499,587,2,2,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491800950,46,Navigate to Logout-12,304,Not Modified,Thread Group 1-2,,true,,551,589,2,2,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491800983,1143,Navigate to Logout-13,304,Not Modified,Thread Group 1-2,,true,,550,589,2,2,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,1090
+1560491800997,42,Navigate to Logout-14,304,Not Modified,Thread Group 1-2,,true,,498,589,2,2,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491801038,137,Navigate to Logout-15,304,Not Modified,Thread Group 1-2,,true,,551,590,2,2,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,96
+1560491801040,50,Navigate to Logout-16,304,Not Modified,Thread Group 1-2,,true,,682,577,2,2,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491801092,41,Navigate to Logout-17,304,Not Modified,Thread Group 1-2,,true,,580,583,2,2,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491801135,39,Navigate to Logout-18,304,Not Modified,Thread Group 1-2,,true,,681,576,2,2,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491801174,47,Navigate to Logout-19,304,Not Modified,Thread Group 1-2,,true,,580,625,2,2,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491801177,411,Navigate to Logout-20,200,OK,Thread Group 1-2,text,true,,1987,388,2,2,https://partner.googleadservices.com/gampad/google_service.js,411,0,371
+1560491801223,250,Navigate to Logout-21,304,Not Modified,Thread Group 1-2,text,true,,741,419,2,2,https://connect.facebook.net/en_US/all.js,0,0,214
+1560491794269,51238,Navigate to Logout,200,"Embedded resource download error:https://fonts.googleapis.com/icon?family=Material+Icons code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to fonts.googleapis.com:443 [fonts.googleapis.com/216.58.196.138] failed: Connection timed out: connect, https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect, https://connect.facebook.net/en_US/all.js code:Non HTTP response code: org.apache.http.conn.HttpHostConnectException message:Non HTTP response message: Connect to connect.facebook.net:443 [connect.facebook.net/157.240.8.23] failed: Connection timed out: connect, ",Thread Group 1-4,text,false,,66509,10667,1,1,https://www.1-day.co.nz/orderlist.do,9175,0,9092
+1560491794269,9209,Navigate to Logout-0,200,OK,Thread Group 1-4,text,true,,43254,472,1,1,https://www.1-day.co.nz/orderlist.do,9175,0,9092
+1560491803491,2552,Navigate to Logout-1,200,OK,Thread Group 1-4,text,true,,3662,439,1,1,"https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",2530,0,2395
+1560491803491,21006,Navigate to Logout-2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to fonts.googleapis.com:443 [fonts.googleapis.com/216.58.196.138] failed: Connection timed out: connect,Thread Group 1-4,text,false,,2910,0,1,1,https://fonts.googleapis.com/icon?family=Material+Icons,0,0,21006
+1560491803491,42016,Navigate to Logout-3,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to www.1-day.co.nz:443 [www.1-day.co.nz/104.17.143.184, www.1-day.co.nz/104.17.142.184] failed: Connection timed out: connect",Thread Group 1-4,text,false,,2932,0,1,1,https://www.1-day.co.nz/images/onsale/1daynz/1-day_logo_white_192x192.png,0,0,42016
+1560491803492,1162,Navigate to Logout-4,304,Not Modified,Thread Group 1-4,,true,,581,620,1,1,https://www.1-day.co.nz/docs/themes/responsive-v3/styles/main-v2.css?v=58f5169254cd4718bdd0,0,0,1114
+1560491803492,10145,Navigate to Logout-5,304,Not Modified,Thread Group 1-4,,true,,551,565,1,1,https://www.1-day.co.nz/images/favicon.ico,0,0,10099
+1560491803492,178,Navigate to Logout-6,304,Not Modified,Thread Group 1-4,,true,,581,622,1,1,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-head.js?v=58f5169254cd4718bdd0,0,0,95
+1560491803672,127,Navigate to Logout-7,304,Not Modified,Thread Group 1-4,,true,,637,568,1,1,https://www.1-day.co.nz/cartreviver/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,89
+1560491803801,41,Navigate to Logout-8,304,Not Modified,Thread Group 1-4,,true,,580,603,1,1,https://www.1-day.co.nz/docs/scripts/cart-reviver.js?v=58f5169254cd4718bdd0,0,0,0
+1560491803844,41,Navigate to Logout-9,304,Not Modified,Thread Group 1-4,,true,,579,608,1,1,https://www.1-day.co.nz/docs/scripts/cart-reviver-1day.js?v=58f5169254cd4718bdd0,0,0,0
+1560491803887,170,Navigate to Logout-10,304,Not Modified,Thread Group 1-4,,true,,175,477,1,1,https://cdn.publift.com/fuse/tag/2/1032/fuse.js,0,0,137
+1560491804058,229,Navigate to Logout-11,304,Not Modified,Thread Group 1-4,,true,,499,587,1,1,https://www.1-day.co.nz/docs/themes/responsive/images/icon-10.svg,0,0,0
+1560491804289,38,Navigate to Logout-12,304,Not Modified,Thread Group 1-4,,true,,551,589,1,1,https://www.1-day.co.nz/docs/themes/responsive/images/icon-tick.svg,0,0,0
+1560491804328,67,Navigate to Logout-13,304,Not Modified,Thread Group 1-4,,true,,550,589,1,1,https://www.1-day.co.nz/docs/themes/responsive/images/icon-kiwi.svg,0,0,0
+1560491804397,44,Navigate to Logout-14,304,Not Modified,Thread Group 1-4,,true,,498,589,1,1,https://www.1-day.co.nz/docs/themes/responsive/images/icon-lock.svg,0,0,0
+1560491804442,39,Navigate to Logout-15,304,Not Modified,Thread Group 1-4,,true,,551,590,1,1,https://www.1-day.co.nz/docs/themes/responsive/images/1day-logo.svg,0,0,0
+1560491804481,39,Navigate to Logout-16,304,Not Modified,Thread Group 1-4,,true,,682,577,1,1,https://www.1-day.co.nz/images/livechat/repoffline2.gif,0,0,0
+1560491804521,45,Navigate to Logout-17,304,Not Modified,Thread Group 1-4,,true,,580,583,1,1,https://www.1-day.co.nz/docs/scripts/jquery.validate.js,0,0,0
+1560491804566,43,Navigate to Logout-18,304,Not Modified,Thread Group 1-4,,true,,681,576,1,1,https://www.1-day.co.nz/images/livechat/reponline2.gif,0,0,0
+1560491804610,40,Navigate to Logout-19,304,Not Modified,Thread Group 1-4,,true,,580,625,1,1,https://www.1-day.co.nz/docs/themes/responsive-v3/scripts/main-foot-v2.js?v=58f5169254cd4718bdd0,0,0,0
+1560491804651,612,Navigate to Logout-20,200,OK,Thread Group 1-4,text,true,,1987,388,1,1,https://partner.googleadservices.com/gampad/google_service.js,611,0,576
+1560491804656,21005,Navigate to Logout-21,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to connect.facebook.net:443 [connect.facebook.net/157.240.8.23] failed: Connection timed out: connect,Thread Group 1-4,text,false,,2908,0,1,1,https://connect.facebook.net/en_US/all.js,0,0,21005
